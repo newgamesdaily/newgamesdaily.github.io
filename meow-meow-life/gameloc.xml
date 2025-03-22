@@ -1,0 +1,2552 @@
+<loc>
+
+
+	<language lang="en">
+		<main_hello>Hello [username]</main_hello>
+		<load_success>Save successfully loaded</load_success>
+		<load>Loading...</load>
+		<save>Saving...</save>
+		<saved>Game saved</saved>
+		<main_login>Log in to save game</main_login>
+		<logout_popup>Do you want to log out of Facebook?</logout_popup>
+		<login_popup>Please log into Facebook to save your progress.</login_popup>
+		<fail_popup>Unable to connect because of a network or server issue. Please check your Internet connection and try again later.</fail_popup>
+		<q_feed>Feed me %s time(s) please!</q_feed>
+		<q_bath>Meow! Please bathe me %s time(s)!</q_bath>
+		<q_med>Let me take %s package(s) of medicine to get more energy.</q_med>
+		<q_sleep>Let's go to sleep and have sweet dreams.</q_sleep>
+		<q_mouse>Chasing mice is fun! Catch the mouse %s time(s).</q_mouse>
+		<q_jump>Jumping! Jumping! Play Cat Jump %s time(s).</q_jump>
+		<q_2048>Challenge me %s time(s) at the 2048 Cats game.</q_2048>
+		<q_pairs>Master, let's play Cat Pairs %s time(s) together.</q_pairs>
+		<q_fill_hungry>Please help me fill my hunger bar.</q_fill_hungry>
+		<q_fill_hygiene>Please help me fill my hygiene bar.</q_fill_hygiene>
+		<q_fill_healthy>Help me fill my fun bar so I can be happier.</q_fill_healthy>
+		<q_fill_energy>Help me fill my energy bar to play around more.</q_fill_energy>
+		<q_buy_apple>An apple a day keeps the doctor away, so buy me an apple!</q_buy_apple>
+		<q_buy_fish>Please buy my favorite food: fish, fish, fish!</q_buy_fish>
+		<q_buy_milk>I like to drink milk. Please buy me a box of it!</q_buy_milk>
+		<q_buy_chips>French fries, French fries everywhere! Buy me some!</q_buy_chips>
+		<q_buy_hotdog>Meow... I want a hot dog!</q_buy_hotdog>
+		<q_buy_catfood>I would be happy if you bought me a pack of cat food.</q_buy_catfood>
+		<q_buy_anyfood>Master, please buy me %s food item(s)!</q_buy_anyfood>
+		<q_buy_med>Meow! Help me buy %s package(s) of medicine.</q_buy_med>
+		<q_jump_points>Jump %s time(s) in my dreams.</q_jump_points>
+		<q_pairs_couples>Collecting %s couples in Cat Pairs should be easy!</q_pairs_couples>
+		<q_2048_points>Help me reach %s in 2048 Cats... Meow... Meow...</q_2048_points>
+		<q_buy_accessory>I want to be cool! Let's buy an accessory to change my look.</q_buy_accessory>
+		<q_happy>Fill the bars to make me a happy, smiley cat.</q_happy>
+		<q_levelup>Level me up!</q_levelup>
+		<q_hold>Meow... Please hold me!</q_hold>
+		<q_cuddle>I want to cuddle! Pet me!</q_cuddle>
+		<q_toys>Play with toys in the game room. It'll be fun!</q_toys>
+		<a_tuto_hat>Help me buy a hat to change my look.</a_tuto_hat>
+		<level_up>LEVEL UP!</level_up>
+		<reward>Reward:</reward>
+		<score>Score: </score>
+		<buy_confirm>Do you want to buy this item?</buy_confirm>
+		<hint_1>Play mini-games to earn more coins.</hint_1>
+		<hint_2>Fill the hunger, hygiene, fun, and energy bars to make your cat happy.</hint_2>
+		<hint_3>Customize furniture to make the house cooler.</hint_3>
+		<hint_4>Level up your cat to unlock new items.</hint_4>
+		<hint_5>Do all the quests to level up faster.</hint_5>
+		<hint_6>Buy accessories in the Shop to make your cat look cooler.</hint_6>
+		<hint_7>Feed your cat to fill the Hunger bar.</hint_7>
+		<hint_8>Wash your cat to fill the Hygiene bar.</hint_8>
+		<hint_9>Buy medicine and give it to your cat to fill the health bar.</hint_9>
+		<hint_10>Let your cat sleep or take medicine to refill the Energy bar.</hint_10>
+		<out_energy_pop>Out of energy. Let your cat sleep to refill it!</out_energy_pop>
+		<q_feed_complete>Thanks for the food!</q_feed_complete>
+		<q_bath_complete>Thanks, master! I love to be clean. Meow.</q_bath_complete>
+		<q_med_complete>Your medicine is really helpful, master.</q_med_complete>
+		<q_sleep_complete>Sleeping is good for me!</q_sleep_complete>
+		<q_mouse_complete>Chasing the mouse is really fun, you know!</q_mouse_complete>
+		<q_jump_complete>Cat Jump is my favorite, heh heh!</q_jump_complete>
+		<q_2048_complete>2048 Cats is a great game!</q_2048_complete>
+		<q_pairs_complete>Wow, Cats Pairs is so interesting!</q_pairs_complete>
+		<q_fill_hungry_complete>My hunger bar is full. Thanks, master!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Oooh, my hygiene bar is full. Yay!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Thanks for filling my fun bar.</q_fill_healthy_complete>
+		<q_fill_energy_complete>I'm full of energy now!</q_fill_energy_complete>
+		<q_buy_apple_complete>Thanks for buying me an apple.</q_buy_apple_complete>
+		<q_buy_fish_complete>Meow, fish! I love fish. Thanks!</q_buy_fish_complete>
+		<q_buy_milk_complete>Thanks for the milk. Yahooo!</q_buy_milk_complete>
+		<q_buy_chips_complete>These French fries make me feel like I'm French.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Thanks for buying me a hot dog.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Yep, cat food! That's what I'm talking about.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Thanks for the food, master!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Thanks for the medicine, master!</q_buy_med_complete>
+		<q_jump_points_complete>Jumping %s times in Cat Jump was easy!</q_jump_points_complete>
+		<q_pairs_couples_complete>Collecting %s couples in Cat Pairs was easy!</q_pairs_couples_complete>
+		<q_2048_points_complete>Reaching %s points in 2048 Cats was easy!</q_2048_points_complete>
+		<q_buy_accessory_complete>Nice accessory! Thank you!</q_buy_accessory_complete>
+		<q_happy_complete>I'm really happy now. Thank you!</q_happy_complete>
+		<q_levelup_complete>Level up. Yay, me!</q_levelup_complete>
+		<q_hold_complete>It's the best feeling, being held.</q_hold_complete>
+		<q_cuddle_complete>It's the best feeling, being cuddled.</q_cuddle_complete>
+		<q_toys_complete>Playing with toys was really fun!</q_toys_complete>
+		<a_tuto_hat_complete>The hat is cool! Thank you!</a_tuto_hat_complete>
+		<tuto_2048>Join the numbers and get to 2048!</tuto_2048>
+		<tuto_pairs>Connect 2 identical cats to score!</tuto_pairs>
+		<tuto_accessory>You can change the accessories here.</tuto_accessory>
+		<tuto_friend>Visit your friend's house.</tuto_friend>
+		<tuto_customize>You can customize the furniture the way you like it.</tuto_customize>
+		<tuto_minigame>Here's where you can play mini-games to earn coins.</tuto_minigame>
+		<unlock_level>Unlock at level %s.</unlock_level>
+		<unlock_level_short>Level %s</unlock_level_short>
+		<hint_11>While the cat is playing with toys, you can go shopping or decorate the house.</hint_11>	
+		<tuto_pinata>Tap the Cat Piñata as fast as you can to get coins.</tuto_pinata>
+		<tuto_diving>Touch the treasures to collect them.</tuto_diving>
+		<tuto_disco>Tap the disco ball as much as you can to keep the cat dancing.</tuto_disco>
+		<tuto_pole>Touch left/right to collect falling coins.</tuto_pole>
+		<tuto_portal>Touch the ground beneath the gift to open the portal.</tuto_portal>
+		<popup_nocoins>Not enough coins.
+		Play mini-games to get more.</popup_nocoins>
+		<unlock_item>You have unlocked:</unlock_item>
+		<tuto_2048_swipe>SWIPE TO COMBINE THE SAME NUMBERS.</tuto_2048_swipe>
+		<going_home>Going home...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Visit your friend's house every day to get a reward.</hint_friend>
+		<hint_shop>Buy food and medicines for your cat in the shop.</hint_shop>
+		<hint_12>Play with toys and do mini-games to fill the Fun bar.</hint_12>
+		<loading_wait_1>This loading screen only appears one time. Wait a bit, paw-lease...</loading_wait_1>
+		<loading_wait_2>Brushing teeth...</loading_wait_2>
+		<loading_wait_3>Bathing with bubbles...</loading_wait_3>
+		<loading_wait_4>Drying fur...</loading_wait_4>
+		<loading_wait_5>Putting on perfume...</loading_wait_5>
+		<daily_day>Day %s</daily_day>
+		<homescreen_title>MEOW... PAW-LEASE ADD ME TO THE HOME SCREEN!</homescreen_title>
+		<homescreen_button>Add to Home screen</homescreen_button>
+		<about_title>\1Gameloft
+		SA1 Studio Creation Team*</about_title>
+		<about>
+		\1Studio Manager*
+		Phùng Việt Hưng
+		
+		\1Business Team*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Thị Trường An
+
+		\1Lead Producer*
+		Nguyễn Việt Cường
+
+		\1Producer*
+		Nguyễn Hoài Nam
+
+		\1Studio Lead Game Designer*
+		Lê Thiện Khiêm
+
+		\1Lead Game Designer*
+		Nguyễn Quốc Đông
+
+		\1Game Designer*
+		Huỳnh Châu Đoan
+
+		\1Studio Lead Programmer*
+		Trần Minh Tiến
+
+		\1Lead Programmer*
+		Nguyễn Nguyên Vũ
+
+		\1Programmers*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Studio Lead Artist*
+		Phạm Đình Thịnh
+
+		\1Lead Artist*
+		Elisio Lima DaCosta
+
+		\1Artists*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Studio QA Manager*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Quality Assurance*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+		
+ 
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+
+		This Font Software is licensed under the SIL Open Font License, Version 1.1.
+		This license is copied below, and is also available with a FAQ at:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="vi">
+		<main_hello>Chào [username]</main_hello>
+		<load_success>Tải bản lưu thành công</load_success>
+		<load>Đang tải...</load>
+		<save>Đang lưu...</save>
+		<saved>Trò chơi đã lưu</saved>
+		<main_login>Đăng nhập để lưu trò chơi</main_login>
+		<logout_popup>Bạn có muốn thoát Facebook?</logout_popup>
+		<login_popup>Xin đăng nhập Facebook để lưu tiến trình chơi.</login_popup>
+		<fail_popup>Không thể kết nối do lỗi mạng hoặc máy chủ. Xin kiểm tra kết nối Internet của bạn và thử lại sau.</fail_popup>
+		<q_feed>Cho con ăn %s lần đi mà!</q_feed>
+		<q_bath>Meo! Hãy tắm cho con %s lần!</q_bath>
+		<q_med>Lấy cho con %s lọ thuốc để con có thêm năng lượng.</q_med>
+		<q_sleep>Hãy đi ngủ và có giấc mơ đẹp nào.</q_sleep>
+		<q_mouse>Bắt chuột vui lắm! Bắt chuột %s lần.</q_mouse>
+		<q_jump>Nhảy! Nhảy! Chơi trò Mèo Nhảy %s lần.</q_jump>
+		<q_2048>Hãy thách con chơi trò Mèo 2048 %s lần.</q_2048>
+		<q_pairs>Chủ nhân ơi, hãy cùng chơi Ghép Mèo %s lần đi.</q_pairs>
+		<q_fill_hungry>Giúp con làm đầy thanh đói bụng với.</q_fill_hungry>
+		<q_fill_hygiene>Giúp con làm đầy thanh vệ sinh với.</q_fill_hygiene>
+		<q_fill_healthy>Giúp con làm đầy thanh vui vẻ để con vui hơn nhé.</q_fill_healthy>
+		<q_fill_energy>Giúp con làm đầy thanh năng lượng để con có sức chơi nhiều hơn nhé.</q_fill_energy>
+		<q_buy_apple>Mỗi ngày một quả táo là khỏi gặp bác sĩ, mua cho con táo nhé!</q_buy_apple>
+		<q_buy_fish>Làm ơn mua cho con món khoái khẩu: cá, cá, cá muôn năm!</q_buy_fish>
+		<q_buy_milk>Con thích uống sữa. Mua cho con một hộp nhé!</q_buy_milk>
+		<q_buy_chips>Khoai tây chiên, khoai tây chiên mọi nơi! Mua cho con một ít nhé!</q_buy_chips>
+		<q_buy_hotdog>Meo... con muốn ăn bánh mì xúc xích!</q_buy_hotdog>
+		<q_buy_catfood>Con sẽ thích lắm nếu chủ nhân mua cho con một bịch thức ăn mèo.</q_buy_catfood>
+		<q_buy_anyfood>Chủ nhân ơi, mua cho con %s món ăn nha!</q_buy_anyfood>
+		<q_buy_med>Meo! Mua giúp con %s lọ thuốc.</q_buy_med>
+		<q_jump_points>Nhảy %s lần trong mơ.</q_jump_points>
+		<q_pairs_couples>Thu thập %s cặp trong Ghép Mèo chắc là dễ ẹc!</q_pairs_couples>
+		<q_2048_points>Giúp con đạt được %s trong Mèo 2048... Meo... Meo...</q_2048_points>
+		<q_buy_accessory>Con muốn trông thật chất! Hãy mua đồ phụ kiện để thay đổi vẻ ngoài của con nhé.</q_buy_accessory>
+		<q_happy>Làm đầy các thanh để làm con hạnh phúc.</q_happy>
+		<q_levelup>Lên cấp cho con!</q_levelup>
+		<q_hold>Meo... Hãy ôm con!</q_hold>
+		<q_cuddle>Con muốn được nựng! Nựng con đi!</q_cuddle>
+		<q_toys>Chơi đồ chơi trong phòng chơi. Sẽ rất vui!</q_toys>
+		<a_tuto_hat>Giúp con mua chiếc mũ để thay đổi vẻ ngoài của con nhé.</a_tuto_hat>
+		<level_up>LÊN CẤP!</level_up>
+		<reward>Thưởng:</reward>
+		<score>Điểm:</score>
+		<buy_confirm>Bạn có muốn mua món này?</buy_confirm>
+		<hint_1>Chơi trò chơi nhỏ để kiếm thêm xu.</hint_1>
+		<hint_2>Làm đầy thanh đói bụng, vệ sinh, vui vẻ và năng lượng để làm mèo hạnh phúc.</hint_2>
+		<hint_3>Trang trí nội thất để nhà đẹp hơn.</hint_3>
+		<hint_4>Lên cấp mèo để mở khóa đồ mới.</hint_4>
+		<hint_5>Làm hết nhiệm vụ để lên cấp nhanh hơn.</hint_5>
+		<hint_6>Mua đồ phụ kiện trong Cửa hàng để làm mèo nhìn chất hơn.</hint_6>
+		<hint_7>Cho mèo ăn để nạp thanh Đói bụng.</hint_7>
+		<hint_8>Tắm mèo để nạp thanh Vệ sinh.</hint_8>
+		<hint_9>Mua thuốc và cho mèo uống để làm đầy thanh Sức khỏe.</hint_9>
+		<hint_10>Cho mèo ngủ hay uống thuốc để nạp thanh Năng lượng.</hint_10>
+		<out_energy_pop>Hết năng lượng. Hãy cho mèo đi ngủ để làm đầy năng lượng!</out_energy_pop>
+		<q_feed_complete>Cảm ơn đồ ăn ngon!</q_feed_complete>
+		<q_bath_complete>Cảm ơn chủ nhân! Con thích sạch sẽ. Meo.</q_bath_complete>
+		<q_med_complete>Thuốc của chủ nhân hay lắm đó.</q_med_complete>
+		<q_sleep_complete>Ngủ rất tốt cho con!</q_sleep_complete>
+		<q_mouse_complete>Đuổi chuột vui cực luôn đó chủ nhân!</q_mouse_complete>
+		<q_jump_complete>Mèo Nhảy là trò tuyệt nhất, hehe!</q_jump_complete>
+		<q_2048_complete>Mèo 2048 chơi cực hay!</q_2048_complete>
+		<q_pairs_complete>Ô là la, Ghép Mèo vui quá xá!</q_pairs_complete>
+		<q_fill_hungry_complete>Thanh đói của con đầy rồi. Cảm ơn chủ nhân!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Ai chà chà, thanh vệ sinh của con đầy rồi. Tuyệt!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Cảm ơn đã làm đầy thanh vui vẻ của con.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Con tràn đầy năng lượng rồi!</q_fill_energy_complete>
+		<q_buy_apple_complete>Cảm ơn đã mua táo cho con.</q_buy_apple_complete>
+		<q_buy_fish_complete>Meo, cá! Con thích cá. Cảm ơn!</q_buy_fish_complete>
+		<q_buy_milk_complete>Cảm ơn sữa ngon. Đã quá!</q_buy_milk_complete>
+		<q_buy_chips_complete>Món khoai tây chiên làm con sướng muốn điên.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Cảm ơn đã mua bánh mì xúc xích cho con.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Đúng rồi, đồ ăn mèo! Vậy mới được chứ.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Cảm ơn đồ ăn ngon, chủ nhân!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Cảm ơn thuốc hay nhé, chủ nhân!</q_buy_med_complete>
+		<q_jump_points_complete>Nhảy %s lần trong Mèo Nhảy quá dễ!</q_jump_points_complete>
+		<q_pairs_couples_complete>Thu thập %s cặp trong Ghép Mèo quá dễ!</q_pairs_couples_complete>
+		<q_2048_points_complete>Đạt %s điểm trong Mèo 2048 quá dễ!</q_2048_points_complete>
+		<q_buy_accessory_complete>Phụ kiện đẹp lắm! Cảm ơn!</q_buy_accessory_complete>
+		<q_happy_complete>Con giờ rất vui. Cảm ơn!</q_happy_complete>
+		<q_levelup_complete>Con lên cấp rồi, sướng!</q_levelup_complete>
+		<q_hold_complete>Được ôm ấp là đã nhất.</q_hold_complete>
+		<q_cuddle_complete>Được nựng là đã nhất.</q_cuddle_complete>
+		<q_toys_complete>Chơi đồ chơi vui quá trời!</q_toys_complete>
+		<a_tuto_hat_complete>Mũ quá bảnh! Cảm ơn!</a_tuto_hat_complete>
+		<tuto_2048>Ghép ô số với nhau để được 2048!</tuto_2048>
+		<tuto_pairs>Nối 2 em mèo giống nhau để ghi điểm!</tuto_pairs>
+		<tuto_accessory>Bạn có thể đổi phụ kiện ở đây.</tuto_accessory>
+		<tuto_friend>Thăm nhà bạn bè.</tuto_friend>
+		<tuto_customize>Bạn có thể trang trí nội thất tùy ý.</tuto_customize>
+		<tuto_minigame>Bạn có thể chơi trò chơi nhỏ ở đây để kiếm xu.</tuto_minigame>
+		<unlock_level>Mở khóa ở cấp %s.</unlock_level>
+		<unlock_level_short>Cấp %s</unlock_level_short>
+		<hint_11>Trong khi mèo đang chơi đồ chơi, bạn có thể đi mua đồ hoặc trang trí nhà.</hint_11>	
+		<tuto_pinata>Chạm Pinata Mèo càng nhanh càng tốt để lấy xu.</tuto_pinata>
+		<tuto_diving>Chạm kho báu để thu thập.</tuto_diving>
+		<tuto_disco>Chạm bóng disco càng nhiều càng tốt để cho mèo nhảy.</tuto_disco>
+		<tuto_pole>Chạm trái/phải để thu thập xu đang rơi.</tuto_pole>
+		<tuto_portal>Chạm mặt bên dưới món quà để mở cổng.</tuto_portal>
+		<popup_nocoins>Không đủ xu.
+		Chơi trò chơi nhỏ để kiếm thêm.</popup_nocoins>
+		<unlock_item>Bạn đã mở khóa:</unlock_item>
+		<tuto_2048_swipe>VUỐT ĐỂ KẾT HỢP CÁC SỐ GIỐNG NHAU.</tuto_2048_swipe>
+		<going_home>Đang đi về nhà...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Thăm nhà bạn bè mỗi ngày để lấy thưởng.</hint_friend>
+		<hint_shop>Mua đồ ăn và thuốc cho mèo ở cửa hàng.</hint_shop>
+		<hint_12>Chơi đồ chơi và trò chơi nhỏ để nạp thanh Vui vẻ.</hint_12>
+		<loading_wait_1>Màn hình đang tải này chỉ hiện một lần. Đợi mèo xíu nha...</loading_wait_1>
+		<loading_wait_2>Đang đánh răng...</loading_wait_2>
+		<loading_wait_3>Đang tắm với bọt biển...</loading_wait_3>
+		<loading_wait_4>Đang sấy lông...</loading_wait_4>
+		<loading_wait_5>Đang xịt nước hoa...</loading_wait_5>
+		<daily_day>Ngày %s</daily_day>
+		<homescreen_title>MEO... LÀM ƠN THÊM MÈO VÀO MÀN HÌNH CHÍNH!</homescreen_title>
+		<homescreen_button>Thêm vào Màn hình chính</homescreen_button>
+		<about_title>\1Gameloft
+		Nhóm sáng tạo studio SA1*</about_title>
+		<about>
+		\1Giám đốc studio*
+		Phùng Việt Hưng
+		
+		\1Nhóm kinh doanh*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Trưởng sản xuất*
+		Nguyễn Việt Cường
+
+		\1Sản xuất*
+		Nguyễn Hoài Nam
+
+		\1Trưởng thiết kế trò chơi studio*
+		Lê Thiện Khiêm
+
+		\1Trưởng thiết kế trò chơi*
+		Nguyễn Quốc Đông
+
+		\1Thiết kế trò chơi*
+		Huỳnh Châu Đoan
+
+		\1Trưởng lập trình studio*
+		Trần Minh Tiến
+
+		\1Trưởng lập trình*
+		Nguyễn Nguyên Vũ
+
+		\1Lập trình*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Trưởng đồ họa studio*
+		Phạm Đình Thịnh
+
+		\1Trưởng đồ họa*
+		Elisio Lima DaCosta
+
+		\1Đồ họa*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Giám đốc KĐCL studio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Kiểm định chất lượng*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+		
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		This Font Software is licensed under the SIL Open Font License, Version 1.1.
+		This license is copied below, and is also available with a FAQ at:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="fr">
+		<main_hello>Bonjour, [username]</main_hello>
+		<load_success>Sauvegarde chargée</load_success>
+		<load>Chargement...</load>
+		<save>Sauvegarde...</save>
+		<saved>Partie sauvegardée</saved>
+		<main_login>Connecte-toi pour sauvegarder la partie</main_login>
+		<logout_popup>Se déconnecter de Facebook ?</logout_popup>
+		<login_popup>Merci de te connecter à Facebook pour sauvegarder ta progression.</login_popup>
+		<fail_popup>Connexion impossible en raison d'un problème de serveur. Merci de vérifier ta connexion Internet et de réessayer plus tard.</fail_popup>
+		<q_feed>Nourris-moi %s fois, s'il te plaît !</q_feed>
+		<q_bath>Miaou ! Donne-moi %s bain(s) !</q_bath>
+		<q_med>Fais-moi prendre %s boîte(s) de médicaments pour que j'ai plus d'énergie.</q_med>
+		<q_sleep>Allons nous coucher et faisons de beaux rêves.</q_sleep>
+		<q_mouse>J'aime chasser les souris ! Attrape la souris %s fois.</q_mouse>
+		<q_jump>Hop ! Hop ! Joue au jeu Saute-chaton %s fois.</q_jump>
+		<q_2048>Défie-moi au jeu 2048 chats %s fois.</q_2048>
+		<q_pairs>Maître, jouons à Paires de chats %s fois ensemble !</q_pairs>
+		<q_fill_hungry>Aide-moi à remplir ma jauge de satiété, s'il te plaît.</q_fill_hungry>
+		<q_fill_hygiene>Aide-moi à remplir ma jauge de propreté, s'il te plaît.</q_fill_hygiene>
+		<q_fill_healthy>Aide-moi à remplir ma jauge d'amusement pour que je sois plus heureux.</q_fill_healthy>
+		<q_fill_energy>Aide-moi à remplir ma jauge d'énergie pour que je joue encore plus.</q_fill_energy>
+		<q_buy_apple>Une pomme par jour garde en bonne santé, alors achète-moi une pomme !</q_buy_apple>
+		<q_buy_fish>Achète-moi ma nourriture favorite : du poisson, du poisson, du poisson !</q_buy_fish>
+		<q_buy_milk>J'aime boire du lait. Achète-moi du lait !</q_buy_milk>
+		<q_buy_chips>Des frites, des frites partout ! Achète-m'en !</q_buy_chips>
+		<q_buy_hotdog>Miaou... Je veux un hot-dog !</q_buy_hotdog>
+		<q_buy_catfood>Je serais content si tu m'achetais de la nourriture pour chat.</q_buy_catfood>
+		<q_buy_anyfood>Maître, achète-moi %s aliment(s), s'il te plaît !</q_buy_anyfood>
+		<q_buy_med>Miaou ! Aide-moi à acheter %s boîte(s) de médicaments.</q_buy_med>
+		<q_jump_points>Saute %s fois dans mes rêves.</q_jump_points>
+		<q_pairs_couples>Assembler %s paires dans Paires de chats devrait être facile !</q_pairs_couples>
+		<q_2048_points>Aide-moi à atteindre %s au 2048 chats... Miaou... Miaou...</q_2048_points>
+		<q_buy_accessory>Je veux être cool ! Achetons un accessoire pour changer mon look.</q_buy_accessory>
+		<q_happy>Remplis les jauges pour faire de moi un chat heureux et réjoui.</q_happy>
+		<q_levelup>Fais-moi gagner un niveau !</q_levelup>
+		<q_hold>Miaou... Prends-moi dans tes bras, s'il te plaît !</q_hold>
+		<q_cuddle>Je veux être choyé ! Caresse-moi !</q_cuddle>
+		<q_toys>Joue avec les jouets dans la salle de jeu. On va s'amuser !</q_toys>
+		<a_tuto_hat>Aide-moi à acheter un chapeau pour que je change de look.</a_tuto_hat>
+		<level_up>NIVEAU SUPÉRIEUR !</level_up>
+		<reward>Récompense :</reward>
+		<score>Score :  </score>
+		<buy_confirm>Acheter cet item ?</buy_confirm>
+		<hint_1>Joue aux mini-jeux pour gagner des pièces.</hint_1>
+		<hint_2>Remplis les jauges de satiété, de propreté, d'amusement et d'énergie pour rendre ton chat heureux.</hint_2>
+		<hint_3>Personnalise tes meubles pour embellir ta maison.</hint_3>
+		<hint_4>Fais passer ton chat au niveau supérieur pour débloquer des items.</hint_4>
+		<hint_5>Fais toutes les quêtes pour passer au niveau supérieur plus vite.</hint_5>
+		<hint_6>Achète des accessoires dans la boutique pour rendre ton chat plus cool.</hint_6>
+		<hint_7>Nourris ton chat pour augmenter sa satiété.</hint_7>
+		<hint_8>Lave ton chat pour augmenter sa propreté.</hint_8>
+		<hint_9>Achète des médicaments et donne-les à ton chat pour remplir la jauge de santé.</hint_9>
+		<hint_10>Fais dormir ton chat ou donne-lui des médicaments pour remplir son énergie.</hint_10>
+		<out_energy_pop>Énergie vide. Laisse ton chat dormir pour la restaurer !</out_energy_pop>
+		<q_feed_complete>Merci pour la nourriture !</q_feed_complete>
+		<q_bath_complete>Merci, maître ! J'adore être propre. Miaou.</q_bath_complete>
+		<q_med_complete>Tes médicaments sont très efficaces, maître.</q_med_complete>
+		<q_sleep_complete>Ça fait du bien de dormir !</q_sleep_complete>
+		<q_mouse_complete>C'est très amusant de chasser la souris, tu sais !</q_mouse_complete>
+		<q_jump_complete>Saute-chaton est mon jeu préféré, hé hé !</q_jump_complete>
+		<q_2048_complete>2048 chats est un super jeu !</q_2048_complete>
+		<q_pairs_complete>Ouah, Paires de chats est tellement intéressant !</q_pairs_complete>
+		<q_fill_hungry_complete>Ma jauge de faim est pleine. Merci, maître !</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Oooh, ma jauge d'hygiène est pleine. Youpi !</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Je te remercie d'avoir rempli ma jauge d'amusement.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Je suis plein d'énergie, maintenant !</q_fill_energy_complete>
+		<q_buy_apple_complete>Merci de m'avoir acheté une pomme.</q_buy_apple_complete>
+		<q_buy_fish_complete>Miaou, du poisson ! J'adore le poisson ! Merci beaucoup !</q_buy_fish_complete>
+		<q_buy_milk_complete>Merci pour le lait. Youpiii !</q_buy_milk_complete>
+		<q_buy_chips_complete>Ces frites me donnent l'impression d'être belge.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Merci de m'avoir acheté un hot-dog.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Ah, de la nourriture pour chat ! J'adore ça.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Merci pour la nourriture, maître !</q_buy_anyfood_complete>
+		<q_buy_med_complete>Merci pour les médicaments, maître !</q_buy_med_complete>
+		<q_jump_points_complete>Facile de sauter %s fois dans Saute-chaton !</q_jump_points_complete>
+		<q_pairs_couples_complete>Facile de faire %s paires dans Paires de chats !</q_pairs_couples_complete>
+		<q_2048_points_complete>Facile d'atteindre %s points dans 2048 chats !</q_2048_points_complete>
+		<q_buy_accessory_complete>Chouette accessoire ! Merci !</q_buy_accessory_complete>
+		<q_happy_complete>Je me sens très heureux. Merci !</q_happy_complete>
+		<q_levelup_complete>Niveau supérieur. Je suis le meilleur !</q_levelup_complete>
+		<q_hold_complete>Rien de plus réconfortant que d'être pris dans les bras.</q_hold_complete>
+		<q_cuddle_complete>Rien de plus réconfortant que d'être caressé.</q_cuddle_complete>
+		<q_toys_complete>C'était très amusant de jouer avec des jouets !</q_toys_complete>
+		<a_tuto_hat_complete>Chouette chapeau ! Merci !</a_tuto_hat_complete>
+		<tuto_2048>Additionne les nombres et atteins 2048 !</tuto_2048>
+		<tuto_pairs>Relie 2 chats identiques pour marquer des points !</tuto_pairs>
+		<tuto_accessory>Ici, tu peux modifier les accessoires.</tuto_accessory>
+		<tuto_friend>Visite la maison de ton ami.</tuto_friend>
+		<tuto_customize>Tu peux personnaliser tes meubles à ta convenance.</tuto_customize>
+		<tuto_minigame>Ici, tu peux jouer à des mini-jeux pour gagner des pièces.</tuto_minigame>	
+		<unlock_level>Débloqué au niveau %s.</unlock_level>
+		<unlock_level_short>Niveau %s</unlock_level_short>
+		<hint_11>Pendant que le chat joue avec des jouets, tu peux aller faire du shopping ou décorer la maison.</hint_11>	
+		<tuto_pinata>Touche la piñata chat aussi vite que possible pour obtenir des pièces.</tuto_pinata>
+		<tuto_diving>Touche les trésors pour les récupérer.</tuto_diving>
+		<tuto_disco>Touche la boule à facettes autant que possible pour que le chat continue à danser.</tuto_disco>
+		<tuto_pole>Touche droite/gauche pour récupérer les pièces qui tombent.</tuto_pole>
+		<tuto_portal>Touche le sol en dessous du cadeau pour ouvrir le portail.</tuto_portal>
+		<popup_nocoins>Pièces insuffisantes.
+		Joue à des mini-jeux pour en gagner davantage.</popup_nocoins>
+		<unlock_item>Tu as débloqué :</unlock_item>
+		<tuto_2048_swipe>BALAIE L'ÉCRAN POUR COMBINER LES NOMBRES IDENTIQUES.</tuto_2048_swipe>
+		<going_home>À la maison...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Visite la maison de ton ami tous les jours pour obtenir une récompense.</hint_friend>
+		<hint_shop>Achète de la nourriture et des médicaments pour ton chat dans la boutique.</hint_shop>
+		<hint_12>Joue aux mini-jeux et avec les jouets pour remplir la jauge d'amusement.</hint_12>
+		<loading_wait_1>Cet écran de chargement n'apparaîtra qu'une fois. Patiente, s'il te plaît.</loading_wait_1>
+		<loading_wait_2>Brossage des dents...</loading_wait_2>
+		<loading_wait_3>Bain moussant...</loading_wait_3>
+		<loading_wait_4>Séchage de fourrure...</loading_wait_4>
+		<loading_wait_5>Parfumage...</loading_wait_5>
+		<daily_day>Jour %s</daily_day>
+		<homescreen_title>MIAOU... AJOUTE-MOI SUR L'ÉCRAN D'ACCUEIL, S'IL TE PLAÎT !</homescreen_title>
+		<homescreen_button>Ajouter à l'écran d'accueil</homescreen_button>
+		<about_title>\1Gameloft
+		Équipe de création studio SA1*</about_title>
+		<about>
+		\1Manager studio*
+		Phùng Việt Hưng
+		
+		\1Équipe commerciale*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Chef producteur*
+		Nguyễn Việt Cường
+
+		\1Producteur*
+		Nguyễn Hoài Nam
+
+		\1Chef game designer studio*
+		Lê Thiện Khiêm
+
+		\1Chef game designer*
+		Nguyễn Quốc Đông
+
+		\1Game design*
+		Huỳnh Châu Đoan
+
+		\1Chef programmeur studio*
+		Trần Minh Tiến
+
+		\1Chef programmeur*
+		Nguyễn Nguyên Vũ
+
+		\1Programmeurs*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Chef graphiste studio*
+		Phạm Đình Thịnh
+
+		\1Chef graphiste*
+		Elisio Lima DaCosta
+
+		\1Graphistes*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+		Maxime Bondoux
+
+		\1Manager AQ studio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Assurance qualité*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+		
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		This Font Software is licensed under the SIL Open Font License, Version 1.1.
+		This license is copied below, and is also available with a FAQ at:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="de">
+		<main_hello>Hallo, [username]</main_hello>
+		<load_success>Speicherspiel erfolgreich geladen</load_success>
+		<load>Lädt…</load>
+		<save>Speichert…</save>
+		<saved>Spiel gespeichert</saved>
+		<main_login>Melde dich an, um das Spiel zu speichern.</main_login>
+		<logout_popup>Willst du dich bei Facebook abmelden?</logout_popup>
+		<login_popup>Melde dich bitte bei Facebook an, um deinen Fortschritt zu speichern.</login_popup>
+		<fail_popup>Verbindung konnte aufgrund eines Netzwerk- oder Server-Problems nicht hergestellt werden. Überprüfe bitte deine Internetverbindung und versuche es später erneut.</fail_popup>
+		<q_feed>Füttere mich bitte %s-mal.</q_feed>
+		<q_bath>Miau! Bitte bade mich %s-mal!</q_bath>
+		<q_med>Gib mir bitte %s Medikament(e), damit ich mehr Energie habe.</q_med>
+		<q_sleep>Lass uns schlafen gehen und schön träumen.</q_sleep>
+		<q_mouse>Mäuse jagen macht Spaß! Fange die Maus %s-mal.</q_mouse>
+		<q_jump>Springen! Springen! Spiele "Katzenspringen" %s-mal.</q_jump>
+		<q_2048>Fordere mich %s-mal im Spiel "2048 Katzen" heraus.</q_2048>
+		<q_pairs>Lass uns zusammen %s-mal Katzen-Memory spielen.</q_pairs>
+		<q_fill_hungry>Bitte hilf mir, meine Hungerleiste aufzufüllen.</q_fill_hungry>
+		<q_fill_hygiene>Bitte hilf mir, meine Hygieneleiste aufzufüllen.</q_fill_hygiene>
+		<q_fill_healthy>Hilf mir, meine Spaßleiste aufzufüllen, damit ich glücklicher bin.</q_fill_healthy>
+		<q_fill_energy>Hilf mir, meine Energieleiste aufzufüllen, damit ich mehr spiele.</q_fill_energy>
+		<q_buy_apple>Ein Apfel am Tag hält den Tierarzt fern, also kaufe mir einen Apfel!</q_buy_apple>
+		<q_buy_fish>Bitte kaufe mir mein Lieblingsessen: Fisch, Fisch, Fisch!</q_buy_fish>
+		<q_buy_milk>Ich trinke gern Milch. Bitte kaufe mir eine Flasche!</q_buy_milk>
+		<q_buy_chips>Pommes, überall Pommes! Kaufe mir welche!</q_buy_chips>
+		<q_buy_hotdog>Miau... ich will ein Hotdog!</q_buy_hotdog>
+		<q_buy_catfood>Ich würde mich freuen, wenn du mir Katzenfutter kaufst.</q_buy_catfood>
+		<q_buy_anyfood>Kaufe mir bitte %s-mal Futter!</q_buy_anyfood>
+		<q_buy_med>Miau! Hilf mir bitte, %s Medikament(e) zu kaufen.</q_buy_med>
+		<q_jump_points>Springe %s-Mal in meinen Träumen.</q_jump_points>
+		<q_pairs_couples>%s Paare im Katzen-Memory zu sammeln, sollte einfach sein!</q_pairs_couples>
+		<q_2048_points>Hilf mir, %s in "2048 Katzen" zu erreichen... Miau... Miau...</q_2048_points>
+		<q_buy_accessory>Ich möchte cool sein! Lass uns ein Accessoire kaufen, um mein Aussehen zu verändern.</q_buy_accessory>
+		<q_happy>Fülle die Leisten, um mich glücklich zu machen.</q_happy>
+		<q_levelup>Bringe mich auf ein neues Level!</q_levelup>
+		<q_hold>Miau... Knuddle mich bitte!</q_hold>
+		<q_cuddle>Ich will kuscheln! Streichle mich!</q_cuddle>
+		<q_toys>Spiele mit Spielzeug im Spielzimmer. Das wird Spaß machen!</q_toys>
+		<a_tuto_hat>Hilf mir, einen Hut zu kaufen, um mein Aussehen zu verändern.</a_tuto_hat>
+		<level_up>LEVELAUFSTIEG!</level_up>
+		<reward>Belohnung:</reward>
+		<score>Ergebnis: </score>
+		<buy_confirm>Möchtest du dieses Element kaufen?</buy_confirm>
+		<hint_1>Spiele Minispiele, um mehr Münzen zu verdienen.</hint_1>
+		<hint_2>Fülle die Hunger-, Hygiene-, Spaß- und Gesundheitsleiste auf, um deine Katze glücklich zu machen.</hint_2>
+		<hint_3>Passe Möbel an, um dein Haus cooler zu gestalten.</hint_3>
+		<hint_4>Verbessere deine Katze, um neue Elemente zu aktivieren.</hint_4>
+		<hint_5>Erfülle alle Aufträge, um schneller im Level aufzusteigen.</hint_5>
+		<hint_6>Kaufe im Shop Accessoires, damit deine Katze cooler aussieht.</hint_6>
+		<hint_7>Füttere deine Katze, um die Hungerleiste aufzufüllen.</hint_7>
+		<hint_8>Wasche deine Katze, um die Hygieneleiste aufzufüllen.</hint_8>
+		<hint_9>Kaufe Medizin und gib sie deiner Katze, um die Gesundheitsliste aufzufüllen.</hint_9>
+		<hint_10>Lasse deine Katze schlafen oder Medikamente nehmen, um die Energieleiste zu füllen.</hint_10>
+		<out_energy_pop>Keine Energie mehr. Lass deine Katze schlafen, um die Energie aufzufüllen.</out_energy_pop>
+		<q_feed_complete>Danke für das Futter!</q_feed_complete>
+		<q_bath_complete>Danke! Ich liebe es, sauber zu sein. Miau.</q_bath_complete>
+		<q_med_complete>Deine Medizin hilft mir sehr.</q_med_complete>
+		<q_sleep_complete>Schlafen ist gut für mich!</q_sleep_complete>
+		<q_mouse_complete>Die Maus zu jagen, macht wirklich Spaß!</q_mouse_complete>
+		<q_jump_complete>"Katzenspringen" ist mein Lieblingsspiel, haha!</q_jump_complete>
+		<q_2048_complete>"2048 Katzen" ist ein tolles Spiel!</q_2048_complete>
+		<q_pairs_complete>Wow, Katzen-Memory ist so interessant!</q_pairs_complete>
+		<q_fill_hungry_complete>Meine Hungerleiste ist voll. Danke!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Oooh, meine Hygieneleiste ist voll. Juhu!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Danke, dass du meine Spaßleiste aufgefüllt hast!</q_fill_healthy_complete>
+		<q_fill_energy_complete>Ich bin jetzt voller Energie!</q_fill_energy_complete>
+		<q_buy_apple_complete>Danke, dass du mir einen Apfel gekauft hast.</q_buy_apple_complete>
+		<q_buy_fish_complete>Miau, Fisch! Ich liebe Fisch. Vielen Dank!</q_buy_fish_complete>
+		<q_buy_milk_complete>Danke für die Milch! Juhuu!</q_buy_milk_complete>
+		<q_buy_chips_complete>Diese Pommes machen mich so richtig zufrieden.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Danke, dass du mir ein Hot Dog gekauft hast.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Ja, Katzenfutter! Genau das brauche ich.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Danke für das Futter!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Danke für die Medizin!</q_buy_med_complete>
+		<q_jump_points_complete>%s-mal im "Katzenspringen" zu springen, war einfach!</q_jump_points_complete>
+		<q_pairs_couples_complete>%s Paare im Katzen-Memory zu sammeln war einfach!</q_pairs_couples_complete>
+		<q_2048_points_complete>%s Punkte in "2048 Katzen" zu erreichen war einfach!</q_2048_points_complete>
+		<q_buy_accessory_complete>Schönes Accessoire! Vielen Dank!</q_buy_accessory_complete>
+		<q_happy_complete>Ich bin jetzt wirklich glücklich. Vielen Dank!</q_happy_complete>
+		<q_levelup_complete>Ein neuer Level für mich. Juhu!</q_levelup_complete>
+		<q_hold_complete>In den Arm genommen zu werden, ist das beste Gefühl der Welt.</q_hold_complete>
+		<q_cuddle_complete>Geknuddelt zu werden, ist das Beste.</q_cuddle_complete>
+		<q_toys_complete>Mit Spielzeug zu spielen, hat viel Spaß gemacht!</q_toys_complete>
+		<a_tuto_hat_complete>Der Hut ist cool! Vielen Dank!</a_tuto_hat_complete>
+		<tuto_2048>Verbinde die Zahlen und erreiche 2048!</tuto_2048>
+		<tuto_pairs>Verbinde 2 identische Katzen, um Punkte zu erhalten!</tuto_pairs>
+		<tuto_accessory>Du kannst die Accessoires hier austauschen.</tuto_accessory>
+		<tuto_friend>Besuche das Haus deines Freundes.</tuto_friend>
+		<tuto_customize>Du kannst die Möbel so anpassen, wie sie dir gefallen.</tuto_customize>
+		<tuto_minigame>Hier kannst du Minispiele spielen, um Münzen zu verdienen.</tuto_minigame>
+		<unlock_level>Aktivieren ab Level %s.</unlock_level>
+		<unlock_level_short>Level %s</unlock_level_short>
+		<hint_11>Während die Katze sich mit Spielzeug vergnügt, kannst du einkaufen gehen oder das Haus dekorieren.</hint_11>	
+		<tuto_pinata>Berühre die Katzen-Piñata, so schnell du kannst hintereinander, um Münzen zu verdienen.</tuto_pinata>
+		<tuto_diving>Berühre die Schätze, um sie einzusammeln.</tuto_diving>
+		<tuto_disco>Berühre die Diskokugel, so oft du kannst, damit die Katze weitertanzt.</tuto_disco>
+		<tuto_pole>Berühre den Bildschirm links/rechts, um herunterfallende Münzen einzusammeln.</tuto_pole>
+		<tuto_portal>Berühre den Boden unter dem Geschenk, um das Portal zum Geschenk zu öffnen.</tuto_portal>
+		<popup_nocoins>Nicht genügend Münzen.
+		Spiele Mini-Spiele, um mehr zu erhalten.</popup_nocoins>
+		<unlock_item>Aktiviert:</unlock_item>
+		<tuto_2048_swipe>STREICHE, UM DIE GLEICHEN ZAHLEN ZU VERBINDEN.</tuto_2048_swipe>
+		<going_home>Nach Hause...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Besuche das Haus deines Freundes täglich, um eine Belohnung zu erhalten.</hint_friend>
+		<hint_shop>Kaufe im Shop Futter und Medikamente für deine Katze.</hint_shop>
+		<hint_12>Mit Spielzeug und Minispielen kannst du die Spaßleiste auffüllen.</hint_12>
+		<loading_wait_1>Dieser Ladebildschirm erscheint nur einmal. Warte bitte kurz...</loading_wait_1>
+		<loading_wait_2>Putzt Zähne...</loading_wait_2>
+		<loading_wait_3>Nimmt Schaumbad...</loading_wait_3>
+		<loading_wait_4>Trocknet Fell...</loading_wait_4>
+		<loading_wait_5>Sprüht Parfüm...</loading_wait_5>
+		<daily_day>Tag %s</daily_day>
+		<homescreen_title>MIAU... BITTE FÜGE MICH DEM STARTBILDSCHIRM HINZU!</homescreen_title>
+		<homescreen_button>Zum Startbildschirm hinzufügen</homescreen_button>
+		<about_title>\1Gameloft
+		Entwicklerteam Studio - SA1*</about_title>
+		<about>
+		\1Studiomanager*
+		Phùng Việt Hưng
+		
+		\1Team Business*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Leitender Produzent*
+		Nguyễn Việt Cường
+
+		\1Produzent*
+		Nguyễn Hoài Nam
+
+		\1Studioleitung Spieldesign*
+		Lê Thiện Khiêm
+
+		\1Leitung Spieldesign*
+		Nguyễn Quốc Đông
+
+		\1Spieldesign*
+		Huỳnh Châu Đoan
+
+		\1Studioleitung Programmierung*
+		Trần Minh Tiến
+
+		\1Leitung Programmierung*
+		Nguyễn Nguyên Vũ
+
+		\1Programmierung*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Studioleitung Grafik*
+		Phạm Đình Thịnh
+
+		\1Leitung Grafik*
+		Elisio Lima DaCosta
+
+		\1Grafik*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Studioleitung QS*
+		Nguyễn Phương Vũ Tuấn
+
+		\1QS*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+ 
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		Diese Font-Software unterliegt der SIL Open Font License Version 1.1.
+		Eine Kopie dieser Lizenz ist im Folgenden einsehbar und ist zusammen mit einem FAQ erhältlich unter:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="es">
+		<main_hello>¡Hola, [username]!</main_hello>
+		<load_success>Se ha cargado la partida guardada</load_success>
+		<load>Cargando...</load>
+		<save>Guardando...</save>
+		<saved>Partida guardada</saved>
+		<main_login>Inicia sesión para guardar la partida</main_login>
+		<logout_popup>¿Quieres cerrar sesión en Facebook?</logout_popup>
+		<login_popup>Por favor, inicia sesión en Facebook para guardar tu progreso.</login_popup>
+		<fail_popup>Conexión imposible debido a un problema de la red o del servidor. Por favor, comprueba tu conexión a internet y vuelve a intentarlo más tarde.</fail_popup>
+		<q_feed>Dame de comer %s vez/veces, por favor.</q_feed>
+		<q_bath>¡Miau! Báñame %s vez/veces.</q_bath>
+		<q_med>Dame %s medicamento(s) para tener más energía.</q_med>
+		<q_sleep>Vamos a dormir y a tener dulces sueños.</q_sleep>
+		<q_mouse>¡Atrapar ratones es divertido! Atrapa al ratón %s vez/veces.</q_mouse>
+		<q_jump>¡A saltar! ¡A saltar! Juega a saltar %s vez/veces.</q_jump>
+		<q_2048>Desafíame %s vez/veces en el juego de 2048 gatos.</q_2048>
+		<q_pairs>Amo, juguemos a Parejas de gatos %s vez/veces.</q_pairs>
+		<q_fill_hungry>Ayúdame a llenar el medidor de hambre.</q_fill_hungry>
+		<q_fill_hygiene>Ayúdame a llenar el medidor de higiene.</q_fill_hygiene>
+		<q_fill_healthy>Ayúdame a llenar el medidor de diversión para que esté más feliz.</q_fill_healthy>
+		<q_fill_energy>Ayúdame a llenar el medidor de energía para que pueda jugar más.</q_fill_energy>
+		<q_buy_apple>¡Las manzanas son fuente de salud! ¡Cómprame una!</q_buy_apple>
+		<q_buy_fish>Por favor, compra mi comida favorita: pescado, pescado, pescado.</q_buy_fish>
+		<q_buy_milk>Me gusta beber leche. ¡Cómprame un cartón!</q_buy_milk>
+		<q_buy_chips>Patatas fritas, patatas fritas. ¡Cómprame unas cuantas!</q_buy_chips>
+		<q_buy_hotdog>Miau... ¡Quiero un perrito caliente!</q_buy_hotdog>
+		<q_buy_catfood>Sería feliz si me compraras comida para gatos.</q_buy_catfood>
+		<q_buy_anyfood>Amo, cómprame %s alimento(s).</q_buy_anyfood>
+		<q_buy_med>¡Miau! Ayúdame a comprar %s medicamento(s).</q_buy_med>
+		<q_jump_points>Salta %s vez/veces en sueños.</q_jump_points>
+		<q_pairs_couples>Conseguir %s parejas en Parejas de gatos debería ser sencillo.</q_pairs_couples>
+		<q_2048_points>Ayúdame a conseguir %s en 2048 gatos... Miau... Miau...</q_2048_points>
+		<q_buy_accessory>¡Quiero ir a la moda! Vamos a comprar un accesorio para cambiar mi imagen.</q_buy_accessory>
+		<q_happy>Llena los medidores para hacerme feliz.</q_happy>
+		<q_levelup>¡Súbeme de nivel!</q_levelup>
+		<q_hold>Miau... ¡Abrázame!</q_hold>
+		<q_cuddle>Quiero mimitos. ¡Acaríciame!</q_cuddle>
+		<q_toys>Juega con los juguetes en la sala de juegos. ¡Será divertido!</q_toys>
+		<a_tuto_hat>Ayúdame a comprar un sombrero.</a_tuto_hat>
+		<level_up>¡NUEVO NIVEL!</level_up>
+		<reward>Recompensa:</reward>
+		<score>Puntos: </score>
+		<buy_confirm>¿Quieres comprar este objeto?</buy_confirm>
+		<hint_1>Juega a minijuegos para ganar monedas.</hint_1>
+		<hint_2>Llena los medidores de hambre, higiene, diversión y energía para que tu gato sea feliz.</hint_2>
+		<hint_3>Personaliza los muebles para que tu casa sea más chula.</hint_3>
+		<hint_4>Sube de nivel a tu gato para desbloquear nuevos objetos.</hint_4>
+		<hint_5>Haz todas las misiones para subir de nivel más rápido.</hint_5>
+		<hint_6>Compra accesorios en la tienda para que tu gato esté más guapo.</hint_6>
+		<hint_7>Alimenta a tu gato para llenar el medidor de hambre.</hint_7>
+		<hint_8>Baña a tu gato para llenar el medidor de higiene.</hint_8>
+		<hint_9>Compra medicamentos y dáselos a tu gato para llenar el medidor de salud.</hint_9>
+		<hint_10>La energía se llena durmiendo o con medicinas.</hint_10>
+		<out_energy_pop>Sin energía. Deja dormir a tu gato para que se recupere.</out_energy_pop>
+		<q_feed_complete>¡Gracias por la comida!</q_feed_complete>
+		<q_bath_complete>¡Gracias, amo! Me gusta estar limpio. Miau.</q_bath_complete>
+		<q_med_complete>Tu medicina es muy útil, amo.</q_med_complete>
+		<q_sleep_complete>¡Dormir me viene bien!</q_sleep_complete>
+		<q_mouse_complete>¡Cómo me gusta perseguir al ratón!</q_mouse_complete>
+		<q_jump_complete>¡Saltar es mi juego preferido! Je, je.</q_jump_complete>
+		<q_2048_complete>¡2048 gatos es un juego muy divertido!</q_2048_complete>
+		<q_pairs_complete>¡Vaya, Parejas de gatos es muy interesante!</q_pairs_complete>
+		<q_fill_hungry_complete>Mi medidor de hambre está lleno. ¡Gracias, amo!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Uh, mi medidor de higiene está lleno. ¡Bien!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>¡Gracias por rellenar mi medidor de diversión.</q_fill_healthy_complete>
+		<q_fill_energy_complete>¡Estoy lleno de energía!</q_fill_energy_complete>
+		<q_buy_apple_complete>Gracias por comprarme una manzana.</q_buy_apple_complete>
+		<q_buy_fish_complete>¡Miau! Me encanta el pescado. ¡Gracias!</q_buy_fish_complete>
+		<q_buy_milk_complete>Gracias por la leche. ¡Yujuuu!</q_buy_milk_complete>
+		<q_buy_chips_complete>Estas patatas fritas están para chuparse las patas.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Gracias por comprarme un perrito caliente.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>¡Sí, comida para gatos! Me encanta.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>¡Gracias por la comida, amo!</q_buy_anyfood_complete>
+		<q_buy_med_complete>¡Gracias por los medicamentos, amo!</q_buy_med_complete>
+		<q_jump_points_complete>¡Qué fácil ha sido dar %s saltos!</q_jump_points_complete>
+		<q_pairs_couples_complete>¡Qué fácil ha sido conseguir %s parejas!</q_pairs_couples_complete>
+		<q_2048_points_complete>¡Qué fácil ha sido conseguir %s puntos en 2048 gatos!</q_2048_points_complete>
+		<q_buy_accessory_complete>¡Bonito accesorio! ¡Gracias!</q_buy_accessory_complete>
+		<q_happy_complete>Estoy muy feliz ahora. ¡Gracias!</q_happy_complete>
+		<q_levelup_complete>He subido de nivel. ¡Bien por mí!</q_levelup_complete>
+		<q_hold_complete>Me gusta mucho que me abracen.</q_hold_complete>
+		<q_cuddle_complete>Me gusta mucho que me den mimitos.</q_cuddle_complete>
+		<q_toys_complete>¡Me lo he pasado muy bien con los juguetes!</q_toys_complete>
+		<a_tuto_hat_complete>¡Me gusta el sombrero! ¡Gracias!</a_tuto_hat_complete>
+		<tuto_2048>¡Junta los números y consigue un 2048!</tuto_2048>
+		<tuto_pairs>¡Conecta 2 gatos idénticos para ganar puntos!</tuto_pairs>
+		<tuto_accessory>Puedes cambiar los accesorios aquí.</tuto_accessory>
+		<tuto_friend>Visita la casa de tu amigo.</tuto_friend>
+		<tuto_customize>Puedes personalizar los muebles a tu gusto.</tuto_customize>
+		<tuto_minigame>Aquí es donde puedes jugar a minijuegos para conseguir monedas.</tuto_minigame>
+		<unlock_level>Se desbloquea a nivel %s</unlock_level>
+		<unlock_level_short>Nivel %s</unlock_level_short>
+		<hint_11>Mientras el gato está jugando con juguetes, puedes irte de compras o decorar la casa.</hint_11>	
+		<tuto_pinata>Toca la piñata de gato tan rápido como puedas para conseguir monedas.</tuto_pinata>
+		<tuto_diving>Toca los tesoros para recogerlos.</tuto_diving>
+		<tuto_disco>Toca la bola de discoteca todo lo que puedas para mantener al gato bailando.</tuto_disco>
+		<tuto_pole>Toca izquierda/derecha para recoger las monedas que caen.</tuto_pole>
+		<tuto_portal>Toca el suelo bajo el regalo para abrir el portal hacia el regalo.</tuto_portal>
+		<popup_nocoins>No tienes suficientes monedas.
+		Juega a minijuegos para conseguir más.</popup_nocoins>
+		<unlock_item>Has desbloqueado:</unlock_item>
+		<tuto_2048_swipe>DESLIZA PARA COMBINAR LOS NÚMEROS IGUALES.</tuto_2048_swipe>
+		<going_home>Yendo a casa...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Visita la casa de tu amigo todos los días para recibir una recompensa.</hint_friend>
+		<hint_shop>Compra comida y medicamentos para tu gato en la tienda.</hint_shop>
+		<hint_12>Los juguetes y minijuegos proporcionan diversión.</hint_12>
+		<loading_wait_1>Esta pantalla de carga solo aparecerá una vez. Ten paciencia...</loading_wait_1>
+		<loading_wait_2>Cepillando los dientes...</loading_wait_2>
+		<loading_wait_3>Bañándose entre burbujas...</loading_wait_3>
+		<loading_wait_4>Secando el pelo...</loading_wait_4>
+		<loading_wait_5>Poniéndose perfume...</loading_wait_5>
+		<daily_day>Día %s</daily_day>
+		<homescreen_title>MIAU... ¡PONME EN TU PANTALLA DE INICIO!</homescreen_title>
+		<homescreen_button>Añadir a pantalla de inicio</homescreen_button>
+		<about_title>\1Gameloft
+		Equipo de creación, estudio SA1*</about_title>
+		<about>
+		\1Mánager del estudio*
+		Phùng Việt Hưng
+		
+		\1Equipo de negocio*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Jefe de producción*
+		Nguyễn Việt Cường
+
+		\1Producción*
+		Nguyễn Hoài Nam
+
+		\1Jefe de diseño del juego del estudio*
+		Lê Thiện Khiêm
+
+		\1Jefe de diseño del juego*
+		Nguyễn Quốc Đông
+
+		\1Diseño del juego*
+		Huỳnh Châu Đoan
+
+		\1Jefe de programación del estudio*
+		Trần Minh Tiến
+
+		\1Jefe de programación*
+		Nguyễn Nguyên Vũ
+
+		\1Programación*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Jefe de arte del estudio*
+		Phạm Đình Thịnh
+
+		\1Jefe de arte*
+		Elisio Lima DaCosta
+
+		\1Arte*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+		Maxime Bondoux
+
+		\1Mánager de gestión de calidad del estudio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Gestión de calidad*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn	
+
+ 
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		Esta fuente tiene licencia SIL Open Font License, versión 1.1.
+		Esta licencia aparece más abajo y también se encuentra disponible con preguntas frecuentes en:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="it">
+		<main_hello>Salve, [username]</main_hello>
+		<load_success>Salvataggio caricato</load_success>
+		<load>Caricamento...</load>
+		<save>Salvataggio...</save>
+		<saved>Partita salvata</saved>
+		<main_login>Accedi per salvare la partita</main_login>
+		<logout_popup>Vuoi uscire da Facebook?</logout_popup>
+		<login_popup>Accedi a Facebook per salvare i progressi.</login_popup>
+		<fail_popup>Impossibile connettersi a causa di un errore con il server o con la rete. Verifica la tua connessione a internet e riprova.</fail_popup>
+		<q_feed>Dammi da mangiare (x%s)!</q_feed>
+		<q_bath>Miao! Fammi il bagno (x%s)!</q_bath>
+		<q_med>Prendiamo delle confezioni di medicina (x%s) per ottenere più energia.</q_med>
+		<q_sleep>Andiamo a dormire. Sogni d'oro!</q_sleep>
+		<q_mouse>La caccia al topo è divertente! Cattura il topo (x%s).</q_mouse>
+		<q_jump>Salta! Salta! Gioca a Gatto salterino (x%s).</q_jump>
+		<q_2048>Sfidami al gioco 2048 Gatti (x%s).</q_2048>
+		<q_pairs>Padrone, giochiamo a Coppie di gatti insieme (x%s).</q_pairs>
+		<q_fill_hungry>Aiutami a riempire la barra della sazietà.</q_fill_hungry>
+		<q_fill_hygiene>Aiutami a riempire la barra della pulizia.</q_fill_hygiene>
+		<q_fill_healthy>Aiutami a riempire la barra dello svago, così sarò più felice.</q_fill_healthy>
+		<q_fill_energy>Aiutami a riempire la barra dell'energia perché possa giocare più a lungo.</q_fill_energy>
+		<q_buy_apple>Una mela al giorno toglie il medico di torno, quindi comprami una mela!</q_buy_apple>
+		<q_buy_fish>Ti prego, compra il mio cibo preferito: pesce, pesce e ancora pesce!</q_buy_fish>
+		<q_buy_milk>Adoro il latte. Ti prego, compramene un cartone!</q_buy_milk>
+		<q_buy_chips>Patate fritte, patate fritte ovunque! Compramene un po'!</q_buy_chips>
+		<q_buy_hotdog>Miao... Vorrei un hot dog!</q_buy_hotdog>
+		<q_buy_catfood>Se mi comprassi una confezione di cibo per gatti, mi faresti felice!</q_buy_catfood>
+		<q_buy_anyfood>Padrone, comprami del cibo (x%s)!</q_buy_anyfood>
+		<q_buy_med>Miao! Aiutami e comprare delle confezioni di medicina (x%s).</q_buy_med>
+		<q_jump_points>Fammi saltare mentre sogno (x%s).</q_jump_points>
+		<q_pairs_couples>Abbinare %s coppie a Coppie di gatti dovrebbe essere facile!</q_pairs_couples>
+		<q_2048_points>Aiutami a raggiungere %s a 2048 Gatti... Miao... miao...</q_2048_points>
+		<q_buy_accessory>Vorrei cambiare look! Compriamo un accessorio.</q_buy_accessory>
+		<q_happy>Riempi le barre per rendere felice il tuo gatto.</q_happy>
+		<q_levelup>Fammi salire di livello!</q_levelup>
+		<q_hold>Miao... Tienimi in braccio!</q_hold>
+		<q_cuddle>Miao! Voglio delle coccole! Coccolami!</q_cuddle>
+		<q_toys>Gioca con i giocattoli nella stanza dei giochi. Sarà divertente!</q_toys>
+		<a_tuto_hat>Aiutami a comprare un cappello per cambiare look.</a_tuto_hat>
+		<level_up>+1 LIVELLO!</level_up>
+		<reward>Premio:</reward>
+		<score>Punti:</score>
+		<buy_confirm>Vuoi comprare questo oggetto?</buy_confirm>
+		<hint_1>Gioca ai minigiochi per ottenere più monete.</hint_1>
+		<hint_2>Riempi le barre della sazietà, della pulizia, dello svago e dell'energia per rendere felice il tuo gatto.</hint_2>
+		<hint_3>Personalizza l'arredamento per rendere più bella la tua casa.</hint_3>
+		<hint_4>Fai salire di livello il tuo gatto per sbloccare nuovi oggetti.</hint_4>
+		<hint_5>Dedicati a tutte le missioni per salire di livello più in fretta.</hint_5>
+		<hint_6>Compra degli accessori nel negozio per rendere più bello il tuo gatto.</hint_6>
+		<hint_7>Nutri il gatto per riempire la barra della sazietà.</hint_7>
+		<hint_8>Lava il gatto per riempire la barra della pulizia.</hint_8>
+		<hint_9>Compra le medicine e dalle al tuo gatto per riempire la barra della salute.</hint_9>
+		<hint_10>Fai dormire il gatto o dagli delle medicine per riempire la barra dell'energia.</hint_10>
+		<out_energy_pop>Energia esaurita. Fai dormire il tuo gatto per ripristinarla!</out_energy_pop>
+		<q_feed_complete>Grazie per il cibo!</q_feed_complete>
+		<q_bath_complete>Grazie, padrone! Adoro essere pulito. Miao.</q_bath_complete>
+		<q_med_complete>La tua medicina è davvero utile, padrone.</q_med_complete>
+		<q_sleep_complete>Dormire mi fa bene!</q_sleep_complete>
+		<q_mouse_complete>Dare la caccia ai topi è proprio divertente!</q_mouse_complete>
+		<q_jump_complete>Gatto salterino è il mio gioco preferito!</q_jump_complete>
+		<q_2048_complete>2048 Gatti è un gioco grandioso!</q_2048_complete>
+		<q_pairs_complete>Wow, Coppie di gatti è così interessante!</q_pairs_complete>
+		<q_fill_hungry_complete>La mia barra della fame è piena. Grazie, padrone!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Oooh, la mia barra dell'igiene è piena. Sìì!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Grazie per aver riempito la mia barra dello svago.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Sono pieno di energia, ora!</q_fill_energy_complete>
+		<q_buy_apple_complete>Grazie per avermi comprato delle mele.</q_buy_apple_complete>
+		<q_buy_fish_complete>Miao, pesce! Adoro il pesce. Grazie!</q_buy_fish_complete>
+		<q_buy_milk_complete>Grazie per il latte. Evvai!</q_buy_milk_complete>
+		<q_buy_chips_complete>Queste patatine fritte mi fanno sentire bene.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Grazie per avermi comprato un hot dog.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Sì, cibo per gatti! Ora si che ragioniamo.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Grazie per il cibo, padrone!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Grazie per la medicina, padrone!</q_buy_med_complete>
+		<q_jump_points_complete>Saltare %s volte a Gatto salterino è stato facile!</q_jump_points_complete>
+		<q_pairs_couples_complete>Abbinare %s coppie a Coppie di gatti è stato facile!</q_pairs_couples_complete>
+		<q_2048_points_complete>Ottenere %s punti a 2048 Gatti è stato facile!</q_2048_points_complete>
+		<q_buy_accessory_complete>Bell'accessorio! Grazie!</q_buy_accessory_complete>
+		<q_happy_complete>Sono davvero felice, ora. Grazie!</q_happy_complete>
+		<q_levelup_complete>Nuovo livello, evviva!</q_levelup_complete>
+		<q_hold_complete>Non c'è niente di meglio che stare in braccio a qualcuno.</q_hold_complete>
+		<q_cuddle_complete>Non c'è niente di meglio che essere coccolati.</q_cuddle_complete>
+		<q_toys_complete>Giocare con i giocattoli è stato davvero divertente!</q_toys_complete>
+		<a_tuto_hat_complete>Bel cappello! Grazie!</a_tuto_hat_complete>
+		<tuto_2048>Unisci i numeri e arriva a 2048!</tuto_2048>
+		<tuto_pairs>Collega 2 gatti identici per fare punti!</tuto_pairs>
+		<tuto_accessory>Qui, puoi cambiare gli accessori.</tuto_accessory>
+		<tuto_friend>Visita la casa dei tuoi amici.</tuto_friend>
+		<tuto_customize>Puoi personalizzare i mobili come preferisci.</tuto_customize>
+		<tuto_minigame>Qui puoi giocare ai minigiochi per guadagnare monete.</tuto_minigame>
+		<unlock_level>Sblocca al livello %s.</unlock_level>
+		<unlock_level_short>Livello %s</unlock_level_short>
+		<hint_11>Mentre il gatto usa i giocattoli, tu puoi fare shopping o decorare la casa.</hint_11>	
+		<tuto_pinata>Tocca la pignatta del gatto più in fretta che puoi per ottenere monete.</tuto_pinata>
+		<tuto_diving>Tocca i tesori per raccoglierli.</tuto_diving>
+		<tuto_disco>Tocca la strobosfera il più possibile per continuare a far ballare il gatto.</tuto_disco>
+		<tuto_pole>Tocca a sinistra/destra per raccogliere le monete che cadono.</tuto_pole>
+		<tuto_portal>Tocca l'area sotto il regalo per aprire il portale.</tuto_portal>
+		<popup_nocoins>Monete insufficienti.
+		Gioca ai minigiochi per ottenerne di più.</popup_nocoins>
+		<unlock_item>Hai sbloccato:</unlock_item>
+		<tuto_2048_swipe>FAI SCORRERE IL DITO PER UNIRE GLI STESSI NUMERI.</tuto_2048_swipe>
+		<going_home>Caricamento casa...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Visita la casa dei tuoi amici tutti i giorni per ottenere un premio.</hint_friend>
+		<hint_shop>Compra cibo e medicine per il gatto nel negozio.</hint_shop>
+		<hint_12>Gioca ai minigiochi e con i giocattoli per riempire la barra del divertimento.</hint_12>
+		<loading_wait_1>Questa schermata di caricamento comparirà una sola volta. Attendi, miao...</loading_wait_1>
+		<loading_wait_2>Puliamo i denti...</loading_wait_2>
+		<loading_wait_3>Facciamo un bel bagno...</loading_wait_3>
+		<loading_wait_4>Asciughiamoci...</loading_wait_4>
+		<loading_wait_5>Mettiamo il profumo...</loading_wait_5>
+		<daily_day>Giorno %s</daily_day>
+		<homescreen_title>MIAO... AGGIUNGIMI ALLA SCHERMATA INIZIALE!</homescreen_title>
+		<homescreen_button>Aggiungi alla schermata iniziale</homescreen_button>
+		<about_title>\1Gameloft
+		Studio SA1 - Squadra creazione*</about_title>
+		<about>
+		\1Responsabile studio*
+		Phùng Việt Hưng
+		
+		\1Squadra business*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Capo produttore*
+		Nguyễn Việt Cường
+
+		\1Produttore*
+		Nguyễn Hoài Nam
+
+		\1Capo design gioco studio*
+		Lê Thiện Khiêm
+
+		\1Capo design gioco*
+		Nguyễn Quốc Đông
+
+		\1Design gioco*
+		Huỳnh Châu Đoan
+
+		\1Capo programmazione studio*
+		Trần Minh Tiến
+
+		\1Capo programmazione*
+		Nguyễn Nguyên Vũ
+
+		\1Programmazione*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Capo grafica studio*
+		Phạm Đình Thịnh
+
+		\1Capo grafica*
+		Elisio Lima DaCosta
+
+		\1Grafica*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Responsabile CQ studio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Controllo qualità*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+ 
+		Font Patrick Hand
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		Questo software font è concesso su licenza SIL Open Font, versione 1.1.
+		Questa licenza è copiata di seguito ed è anche disponibile con una sezione FAQ presso:
+		http: //scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="br">
+		<main_hello>Olá, [username]</main_hello>
+		<load_success>Jogo salvo carregado</load_success>
+		<load>Carregando...</load>
+		<save>Salvando...</save>
+		<saved>Jogo salvo</saved>
+		<main_login> Conecte-se para salvar o jogo</main_login>
+		<logout_popup>Quer se desconectar do Facebook?</logout_popup>
+		<login_popup>Conecte-se ao Facebook para salvar seu progresso.</login_popup>
+		<fail_popup>Não foi possível se conectar devido a um problema no servidor ou na rede. Verifique sua conexão à internet e tente novamente mais tarde.</fail_popup>
+		<q_feed>Me alimente %s vez(es), por favor!</q_feed>
+		<q_bath>Miau! Me dê banho %s vez(es)!</q_bath>
+		<q_med>Me dê %s pacote(s) de remédio para que eu tenha mais energia.</q_med>
+		<q_sleep>Vamos dormir e ter lindos sonhos.</q_sleep>
+		<q_mouse>Quero caçar aquele rato! Pegue o rato %s vez(es).</q_mouse>
+		<q_jump>Vamos pular! Jogue Pulo do Gato %s vez(es).</q_jump>
+		<q_2048>Jogue 2048 Gatos %s vez(es).</q_2048>
+		<q_pairs>Humano! Vamos jogar Combina Gato %s vez(es).</q_pairs>
+		<q_fill_hungry>Ajude-me a encher minha barra de alimento.</q_fill_hungry>
+		<q_fill_hygiene>Ajude-me a encher minha barra de higiene.</q_fill_hygiene>
+		<q_fill_healthy>Ajude-me a encher minha barra de diversão para que eu fique mais feliz.</q_fill_healthy>
+		<q_fill_energy>Ajude-me a encher minha barra de energia para que eu possa brincar mais.</q_fill_energy>
+		<q_buy_apple>Maçãs são boas para a saúde. Compra uma pra mim?</q_buy_apple>
+		<q_buy_fish>Meu prato favorito é peixe! Compra peixe pra mim?!</q_buy_fish>
+		<q_buy_milk>Eu gosto de beber leite. Por favor, compre uma caixa pra mim!</q_buy_milk>
+		<q_buy_chips>Eu adoro batatinhas fritas. Me dá, me dá, me dá!</q_buy_chips>
+		<q_buy_hotdog>Miaaaaaaaau! Quero um cachorro-quente!</q_buy_hotdog>
+		<q_buy_catfood>Se você comprar um sachê de ração pra mim, vou ficar muito feliz!</q_buy_catfood>
+		<q_buy_anyfood>Compre %s alimento(s)!</q_buy_anyfood>
+		<q_buy_med>Miau! Compre %s pacote(s) de remédio.</q_buy_med>
+		<q_jump_points>Pule %s vez(es) nos meus sonhos.</q_jump_points>
+		<q_pairs_couples>Pule %s vez(es) nos meus sonhos.</q_pairs_couples>
+		<q_2048_points>Ajude-me a alcançar %s no 2048 Gatos... Miaaaaaau... Miaaaaau...</q_2048_points>
+		<q_buy_accessory>Quero parecer legal! Vamos comprar um acessório que me deixe gato.</q_buy_accessory>
+		<q_happy>Preencha as barras para deixar seu gato feliz.</q_happy>
+		<q_levelup>Subir de nível!</q_levelup>
+		<q_hold>Colo, eu quero colo.</q_hold>
+		<q_cuddle>Miau! Quero carinho! Faça carinho em mim!</q_cuddle>
+		<q_toys>Brinque na sala de jogos.</q_toys>
+		<a_tuto_hat>Ajude-me a comprar um chapéu para mudar meu visual.</a_tuto_hat>
+		<level_up>SUBIU DE NÍVEL!</level_up>
+		<reward>Prêmio:</reward>
+		<score>Pontos: </score>
+		<buy_confirm>Deseja comprar este item?</buy_confirm>
+		<hint_1>Jogue minijogos para ganhar mais moedas.</hint_1>
+		<hint_2>Encha as barras de alimento, higiene, diversão e energia para deixar seu gato feliz.</hint_2>
+		<hint_3>Personalize sua mobília e deixe a casa mais legal.</hint_3>
+		<hint_4>Subir seu gato de nível desbloqueia novos itens.</hint_4>
+		<hint_5>Complete todas as tarefas e suba de nível mais rápido.</hint_5>
+		<hint_6>Compre acessórios na Loja para seu gato ficar mais na moda.</hint_6>
+		<hint_7>Alimentar seu gato enche a barra de alimento.</hint_7>
+		<hint_8>Banhos no gato enchem a barra de higiene.</hint_8>
+		<hint_9>Compre remédios e dê para seu gato para encher a barra de saúde.</hint_9>
+		<hint_10>Faça o gato dormir ou tomar remédio para encher a barra de energia.</hint_10>
+		<out_energy_pop>Sem energia. Deixe seu gato dormir para reabastecer!</out_energy_pop>
+		<q_feed_complete>Valeu pela comida!</q_feed_complete>
+		<q_bath_complete>Oba, adoro ficar limpinho! Miau!</q_bath_complete>
+		<q_med_complete>Estou me sentido melhor!</q_med_complete>
+		<q_sleep_complete>Nada como uma sonequinha.</q_sleep_complete>
+		<q_mouse_complete>Que diversão é caçar esse rato malandro.</q_mouse_complete>
+		<q_jump_complete>Pulo do Gato é minha atividade favorita.</q_jump_complete>
+		<q_2048_complete>2048 Gatos é demais!</q_2048_complete>
+		<q_pairs_complete>Uau... Combina Gato é complicado!</q_pairs_complete>
+		<q_fill_hungry_complete>A barra de fome está cheia. Valeu.</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Minha barra de higiene está cheia. Oba!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Valeu por encher minha barra de diversão.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Cheio de energia!</q_fill_energy_complete>
+		<q_buy_apple_complete>Obrigado pela maçã. </q_buy_apple_complete>
+		<q_buy_fish_complete>Miau... Como peixe é bom.</q_buy_fish_complete>
+		<q_buy_milk_complete>Leite fresquinho. Hummmm!</q_buy_milk_complete>
+		<q_buy_chips_complete>Oba... Quem não ama batata frita?</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Valeu pelo cachorro quente... Hahahah... Cachorro.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Oba... Comida de gato é o que há.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Valeu pela comida!</q_buy_anyfood_complete>
+		<q_buy_med_complete>O remédio está funcionando.</q_buy_med_complete>
+		<q_jump_points_complete>Pular %s vezes no Pulo do Gato foi moleza!</q_jump_points_complete>
+		<q_pairs_couples_complete>Obter %s pontos no Combina Gato foi moleza!</q_pairs_couples_complete>
+		<q_2048_points_complete>Obter %s pontos em 2048 Gatos foi mole!</q_2048_points_complete>
+		<q_buy_accessory_complete>Belos acessórios. Valeu.</q_buy_accessory_complete>
+		<q_happy_complete>Estou superfeliz. Valeu.</q_happy_complete>
+		<q_levelup_complete>Subiu de nível! Prrrrrrrrrr</q_levelup_complete>
+		<q_hold_complete>Adoro um colinho.</q_hold_complete>
+		<q_cuddle_complete>Adoro carinho!</q_cuddle_complete>
+		<q_toys_complete>Adoro esses brinquedos.</q_toys_complete>
+		<a_tuto_hat_complete>Que chapéu maneiro. Valeu!</a_tuto_hat_complete>
+		<tuto_2048>Junte os números e chegue em 2048!</tuto_2048>
+		<tuto_pairs>Junte 2 gatos iguais para pontuar.</tuto_pairs>
+		<tuto_accessory>Você pode mudar os acessórios aqui.</tuto_accessory>
+		<tuto_friend>Visite a casa de seu amigo.</tuto_friend>
+		<tuto_customize>Você pode personalizar os móveis como quiser.</tuto_customize>
+		<tuto_minigame>Aqui você pode aproveitar minijogos para ganhar moedas.</tuto_minigame>
+		<unlock_level>Desbloqueio no nível %s.</unlock_level>
+		<unlock_level_short>Nível %s</unlock_level_short>
+		<hint_11>Enquanto o gato brinca, você pode fazer compras ou decorar a casa.</hint_11>	
+		<tuto_pinata>Toque na Piñata de Gato o mais rápido possível para obter moedas.</tuto_pinata>
+		<tuto_diving>Toque nos tesouros para recolhê-los.</tuto_diving>
+		<tuto_disco>Toque na bola de espelhos o máximo que puder para que o gato continue dançando.</tuto_disco>
+		<tuto_pole>Toque esquerda/direita para recolher as moedas que estão caindo.</tuto_pole>
+		<tuto_portal>Toque no chão embaixo do presente para abrir o portal para o presente.</tuto_portal>
+		<popup_nocoins>Moedas insuficientes.
+		Jogue minijogos para obter mais.</popup_nocoins>
+		<unlock_item>Você desbloqueou:</unlock_item>
+		<tuto_2048_swipe>DESLIZE PARA COMBINAR OS NÚMEROS IGUAIS.</tuto_2048_swipe>
+		<going_home>Indo pra casa...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Visite a casa de seu amigo todos os dias para receber uma recompensa.</hint_friend>
+		<hint_shop>Compre comida e remédio para seu gato na Loja.</hint_shop>
+		<hint_12>Brinquedos e minijogos enchem a barra de diversão.</hint_12>
+		<loading_wait_1>Essa tela de carregamento só aparece uma vez. Espere um miauquinho, por favor...</loading_wait_1>
+		<loading_wait_2>Escovando os dentes...</loading_wait_2>
+		<loading_wait_3>Banho de espuma...</loading_wait_3>
+		<loading_wait_4>Secando o pelo...</loading_wait_4>
+		<loading_wait_5>Passando perfume...</loading_wait_5>
+		<daily_day>Dia %s</daily_day>
+		<homescreen_title>MIAU... POR FAVOR, ME ADICIONE À TELA INICIAL!</homescreen_title>
+		<homescreen_button>Adicionar à tela Inicial</homescreen_button>
+		<about_title>\1Gameloft
+		Equipe de Criação do Estúdio SA1*</about_title>
+		<about>
+		\1Gerência de Estúdio*
+		Phùng Việt Hưng
+		
+		\1Equipe Comercial*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Liderança de Produção*
+		Nguyễn Việt Cường
+
+		\1Produção*
+		Nguyễn Hoài Nam
+
+		\1Liderança de Design do Jogo do Estúdio*
+		Lê Thiện Khiêm
+
+		\1Liderança de Design do Jogo*
+		Nguyễn Quốc Đông
+
+		\1Design do Jogo*
+		Huỳnh Châu Đoan
+
+		\1Liderança de Programação do Estúdio*
+		Trần Minh Tiến
+
+		\1Liderança de Programação*
+		Nguyễn Nguyên Vũ
+
+		\1Programação*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+		
+		\1Liderança de Arte do Estúdio*
+		Phạm Đình Thịnh
+
+		\1Liderança de Arte*
+		Elisio Lima DaCosta
+
+		\1Arte*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+		Maxime Bondoux
+
+		\1Gerência de CQ do Estúdio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Controle de Qualidade*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+ 
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		Este software de fonte está licenciado sob a Licença de Fonte Aberta SIL, Versão 1.1.
+		Esta licença é copiada abaixo e também está disponível com um FAQ em:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="tr">
+		<main_hello>Merhaba [username]</main_hello>
+		<load_success>Kayıt başarıyla yüklendi</load_success>
+		<load>Yükleniyor...</load>
+		<save>Kaydediliyor...</save>
+		<saved>Oyun kaydedildi</saved>
+		<main_login>Oyunu kaydetmek için giriş yap</main_login>
+		<logout_popup>Facebook'tan çıkış yapmak istiyor musun?</logout_popup>
+		<login_popup>İlerlemeni kaydetmek için lütfen Facebook'a giriş yap.</login_popup>
+		<fail_popup>Bir ağ ya da sunucu sorunu nedeniyle bağlanılamıyor. Lütfen internet bağlantını kontrol edip sonra tekrar dene.</fail_popup>
+		<q_feed>Lütfen beni %s kez besle!</q_feed>
+		<q_bath>Miyav! Lütfen beni %s kez yıka!</q_bath>
+		<q_med>Enerjimi artırmak için %s paket ilaç almama yardım et.</q_med>
+		<q_sleep>Haydi uyuyup tatlı rüyalar görelim.</q_sleep>
+		<q_mouse>Fare kovalamak çok eğlenceli! Fareyi %s kez yakala.</q_mouse>
+		<q_jump>Zıp zıp zıplıyorum! Zıplama oyununu %s kez oyna.</q_jump>
+		<q_2048>2048 Kedi oyununda bana %s kez meydan oku.</q_2048>
+		<q_pairs>İnsan, haydi beraber %s kez Kedi Eşleştirme oynayalım!</q_pairs>
+		<q_fill_hungry>Lütfen doyma çubuğumu doldurmama yardım et.</q_fill_hungry>
+		<q_fill_hygiene>Lütfen hijyen çubuğumu doldurmama yardım et.</q_fill_hygiene>
+		<q_fill_healthy>Eğlence çubuğumu doldurup mutlu olmama yardım et.</q_fill_healthy>
+		<q_fill_energy>Koşup oynamam için enerjimi doldurmama yardım et.</q_fill_energy>
+		<q_buy_apple>Yarım elma, gönül alma. Haydi bana bir elma satın al!</q_buy_apple>
+		<q_buy_fish>Lütfen en sevdiğim yiyeceği satın al: balık, balık, balık!</q_buy_fish>
+		<q_buy_milk>Süt içmeyi severim. Lütfen bana süt satın al!</q_buy_milk>
+		<q_buy_chips>Canım patates kızartması çekti! Hadi bana biraz al!</q_buy_chips>
+		<q_buy_hotdog>Miyav... Sosisli istiyorum!</q_buy_hotdog>
+		<q_buy_catfood>Bana kedi maması satın alırsan çok mutlu olurum.</q_buy_catfood>
+		<q_buy_anyfood>İnsan, lütfen bana %s yiyecek ürünü satın al!</q_buy_anyfood>
+		<q_buy_med>Miyav! %s paket ilaç satın almama yardım et.</q_buy_med>
+		<q_jump_points>Rüyalarımda %s kez zıpla.</q_jump_points>
+		<q_pairs_couples>Kedi Eşleştirme'de %s çift kedi toplamak kolay olmalı!</q_pairs_couples>
+		<q_2048_points>2048 Kedi'de %s puana ulaşmama yardım et... Miyav... Miyav...</q_2048_points>
+		<q_buy_accessory>Şık olmak istiyorum! Haydi bana bir aksesuar satın alıp tarzımı değiştirelim.</q_buy_accessory>
+		<q_happy>Mutlu ve güler yüzlü bir kedi olmam için çubukları doldur.</q_happy>
+		<q_levelup>Seviyemi yükselt!</q_levelup>
+		<q_hold>Miyav... Lütfen beni kucakla!</q_hold>
+		<q_cuddle>Sarıl bana! Sev beni!</q_cuddle>
+		<q_toys>Oyun odasındaki oyuncaklarla oyna. Çok eğleneceğiz!</q_toys>
+		<a_tuto_hat>Tarzımı değiştirmem için şapka satın almama yardım et.</a_tuto_hat>
+		<level_up>SEVİYE YÜKSELDİ!</level_up>
+		<reward>Ödül:</reward>
+		<score>Skor:</score>
+		<buy_confirm>Bu ürünü satın almak istiyor musun?</buy_confirm>
+		<hint_1>Daha çok altın para için mini oyunlar oyna.</hint_1>
+		<hint_2>Doyma, hijyen, eğlence ve enerji çubuklarını doldurup kedini mutlu et.</hint_2>
+		<hint_3>Daha şık bir ev için eşyalarını kişiselleştir.</hint_3>
+		<hint_4>Kedinin seviyesini yükseltip yeni ürünleri aç.</hint_4>
+		<hint_5>Daha hızlı seviye yükselmek için tüm görevleri tamamla.</hint_5>
+		<hint_6>Kedinin daha şık olması için Dükkan'dan aksesuar satın al.</hint_6>
+		<hint_7>Doyma çubuğunu doldurmak için kedini besle.</hint_7>
+		<hint_8>Hijyen çubuğunu doldurmak için kedini yıka.</hint_8>
+		<hint_9>Sağlık çubuğunu doldurmak için ilaç satın alıp kedine ver.</hint_9>
+		<hint_10>Kedini uykuya yatırıp veya ilaç verip enerjisini doldur.</hint_10>
+		<out_energy_pop>Enerji tükendi. Doldurmak için kedinin uyumasına izin ver!</out_energy_pop>
+		<q_feed_complete>Yiyecek için teşekkürler!</q_feed_complete>
+		<q_bath_complete>Sağ ol, insan! Temiz olmaya bayılıyorum. Miyav.</q_bath_complete>
+		<q_med_complete>Verdiğin ilaç çok iyi geldi, insan.</q_med_complete>
+		<q_sleep_complete>Uyku bana çok iyi geliyor!</q_sleep_complete>
+		<q_mouse_complete>Fare kovalamak öyle eğlenceli ki!</q_mouse_complete>
+		<q_jump_complete>Zıplama oyunu, en sevdiğim oyun he he!</q_jump_complete>
+		<q_2048_complete>2048 Kedi harika bir oyun!</q_2048_complete>
+		<q_pairs_complete>Vay be, Kedi Eşleştirme çok enteresan!</q_pairs_complete>
+		<q_fill_hungry_complete>Doyma çubuğum dolu. Teşekkürler, insan!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Ooo, hijyen çubuğum doldu. Yaşasın!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Eğlence çubuğumu doldurduğun için teşekkürler.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Artık enerji doluyum!</q_fill_energy_complete>
+		<q_buy_apple_complete>Bana elma aldığın için teşekkürler.</q_buy_apple_complete>
+		<q_buy_fish_complete>Miyav, balık! Balığa bayılırım. Teşekkürler!</q_buy_fish_complete>
+		<q_buy_milk_complete>Süt için teşekkürler. Yuppiii!</q_buy_milk_complete>
+		<q_buy_chips_complete>Patates kızartması gördüm mü patilerimi ovuştururum.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Bana sosisli aldığın için teşekkürler.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Yaşasın, kedi maması! Şimdi oldu işte!</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Yiyecek için teşekkürler, insan!</q_buy_anyfood_complete>
+		<q_buy_med_complete>İlaç için teşekkürler, insan!</q_buy_med_complete>
+		<q_jump_points_complete>Zıplama oyununda %s kez zıplamak hiç zor olmadı!</q_jump_points_complete>
+		<q_pairs_couples_complete>Kedi Eşleştirme oyununda %s kedi çiftini toplamak hiç zor olmadı!</q_pairs_couples_complete>
+		<q_2048_points_complete>2048 Kedi oyununda %s puana ulaşmak hiç zor olmadı!</q_2048_points_complete>
+		<q_buy_accessory_complete>Ne hoş bir aksesuar! Teşekkürler!</q_buy_accessory_complete>
+		<q_happy_complete>Şimdi çok mutlu oldum. Teşekkürler!</q_happy_complete>
+		<q_levelup_complete>Seviye yükseldim. Ha hayt!</q_levelup_complete>
+		<q_hold_complete>Kucaklanmak dünyanın en güzel hissi.</q_hold_complete>
+		<q_cuddle_complete>Sevilmek dünyanın en güzel hissi.</q_cuddle_complete>
+		<q_toys_complete>Oyuncaklarla oynamak çok zevkliydi!</q_toys_complete>
+		<a_tuto_hat_complete>Bu şapka bir harika! Teşekkürler!</a_tuto_hat_complete>
+		<tuto_2048>Sayıları birleştir ve 2048'e ulaş!</tuto_2048>
+		<tuto_pairs>Puan kazanmak için birbiriyle aynı 2 kediyi bir araya getir!</tuto_pairs>
+		<tuto_accessory>Aksesuarları burada değiştirebilirsin.</tuto_accessory>
+		<tuto_friend>Arkadaşının evini ziyaret et.</tuto_friend>
+		<tuto_customize>Eşyaları istediğin gibi kişiselleştirebilirsin.</tuto_customize>
+		<tuto_minigame>Burada altın para kazanmak için mini oyunlar oynayabilirsin.</tuto_minigame>
+		<unlock_level>%s. seviyede kilidi açılır.</unlock_level>
+		<unlock_level_short>%s. Seviye</unlock_level_short>
+		<hint_11>Kedi, oyuncaklarıyla oynarken sen de alışverişe çıkabilir veya evi dekore edebilirsin.</hint_11>	
+		<tuto_pinata>Altın para almak için kedi piñatasına olabildiğince hızlı dokun.</tuto_pinata>
+		<tuto_diving>Hazineleri toplamak için onlara dokun.</tuto_diving>
+		<tuto_disco>Kediyi dans ettirmek için disko topuna olabildiğince çok dokun.</tuto_disco>
+		<tuto_pole>Düşen altın paraları toplamak için sola/sağa dokun.</tuto_pole>
+		<tuto_portal>Hediyeye giden geçidi açmak için hediyenin altına tıkla.</tuto_portal>
+		<popup_nocoins>Yeterince altın para yok.
+		Mini oyunlar oynayıp daha fazla edin.</popup_nocoins>
+		<unlock_item>Şunun kilidini açtın:</unlock_item>
+		<tuto_2048_swipe>AYNI SAYILARI BİRLEŞTİRMEK İÇİN PARMAĞINI KAYDIR.</tuto_2048_swipe>
+		<going_home>Eve gidiliyor...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Ödül almak için her gün arkadaşının evini ziyaret et.</hint_friend>
+		<hint_shop>Dükkan'da kedin için yiyecek ve ilaç satın al.</hint_shop>
+		<hint_12>Oyuncakla veya mini oyunla eğlenip enerjiyi doldur.</hint_12>
+		<loading_wait_1>Bu yükleme ekranı sadece bir kez belirir. Lütfen azıcık mır mır bekle...</loading_wait_1>
+		<loading_wait_2>Diş fırçalanıyor...</loading_wait_2>
+		<loading_wait_3>Köpük banyosu yapılıyor...</loading_wait_3>
+		<loading_wait_4>Tüyler kurutuluyor...</loading_wait_4>
+		<loading_wait_5>Parfüm sıkılıyor...</loading_wait_5>
+		<daily_day>%s. Gün</daily_day>
+		<homescreen_title>MİYAV... LÜTFEN BENİ ANA EKRANA EKLE!</homescreen_title>
+		<homescreen_button>Ana ekrana ekle</homescreen_button>
+		<about_title>\1Gameloft
+		Saygon 1 Stüdyosu Kreasyon Ekibi*</about_title>
+		<about>
+		\1Stüdyo Yöneticisi*
+		Phùng Việt Hưng
+		
+		\1İş Ekibi*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Yapım Şefi*
+		Nguyễn Việt Cường
+
+		\1Yapım*
+		Nguyễn Hoài Nam
+
+		\1Stüdyo Oyun Tasarım Şefi*
+		Lê Thiện Khiêm
+
+		\1Oyun Tasarım Şefi*
+		Nguyễn Quốc Đông
+
+		\1Oyun Tasarımı*
+		Huỳnh Châu Đoan
+
+		\1Stüdyo Programlama Şefi*
+		Trần Minh Tiến
+
+		\1Programlama Şefi*
+		Nguyễn Nguyên Vũ
+
+		\1Programlama*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Stüdyo Çizim Şefi*
+		Phạm Đình Thịnh
+
+		\1Çizim Şefi*
+		Elisio Lima DaCosta
+
+		\1Çizim*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+		Maxime Bondoux
+
+		\1Kalite Güvencesi Stüdyo Yöneticisi*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Kalite Güvencesi*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+		
+		Patrick Hand Yazı Tipi
+		Telif Hakkı (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		Bu yazı tipi yazılımı, SIL Açık Yazı Tipi Lisansı, Sürüm 1.1 lisansı altındadır.
+		Bu lisans aşağıda alıntılanmıştır ve SSS ile birlikte şu adreste bulunabilir:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="ru">
+		<main_hello>Приветствуем, [username]</main_hello>
+		<load_success>Сохраненные данные загружены</load_success>
+		<load>Загрузка…</load>
+		<save>Сохранение...</save>
+		<saved>Игра сохранена</saved>
+		<main_login>Подключитесь, чтобы сохранить игру</main_login>
+		<logout_popup>Хотите войти в Facebook?</logout_popup>
+		<login_popup>Пожалуйста, войдите в Facebook, чтобы сохранить прогресс.</login_popup>
+		<fail_popup>Не удалось подключиться из-за проблем с сетью или сервером. Пожалуйста, удостоверьтесь, что вы подключены к Интернету и повторите попытку.</fail_popup>
+		<q_feed>Покорми меня %s раз(а)!</q_feed>
+		<q_bath>Мяу! Искупай меня %s р.</q_bath>
+		<q_med>Дай мне таблеточку, хватит %s, чтобы зарядиться энергией.</q_med>
+		<q_sleep>Пора спать. Сладких снов, котик!</q_sleep>
+		<q_mouse>Обожаю гоняться за мышками! Поймай мышь %s р.</q_mouse>
+		<q_jump>Прыг-скок, прыг-скок! Поиграй в КотоПрыгалку %s р.</q_jump>
+		<q_2048>Сыграй в 2048 Котов %s р.</q_2048>
+		<q_pairs>Давай сыграем в КотоПары %s р.</q_pairs>
+		<q_fill_hungry>Помоги мне заполнить счетчик голода.</q_fill_hungry>
+		<q_fill_hygiene>Помоги мне заполнить счетчик гигиены.</q_fill_hygiene>
+		<q_fill_healthy>Помоги мне заполнить шкалу радости и стать счастливее.</q_fill_healthy>
+		<q_fill_energy>Помоги мне заполнить счетчик энергии, чтобы я смог больше играть.</q_fill_energy>
+		<q_buy_apple>Одно яблочко в день, и доктор мне не понадобится. Купи!..</q_buy_apple>
+		<q_buy_fish>Купи мне мое любимое блюдо: рыбку!</q_buy_fish>
+		<q_buy_milk>Люблю молочко. Купи, купи!</q_buy_milk>
+		<q_buy_chips>Картошка фри, картошка фри! Купи, купи!</q_buy_chips>
+		<q_buy_hotdog>Мяу… Хочу хот дог!</q_buy_hotdog>
+		<q_buy_catfood>Буду просто счастлив, если ты купишь мне пачку кошачьей еды.</q_buy_catfood>
+		<q_buy_anyfood>Купи мне еды: %s.</q_buy_anyfood>
+		<q_buy_med>Мяу! Купи мне лекарство: %s.</q_buy_med>
+		<q_jump_points>Подпрыгнем %s раз в моих снах.</q_jump_points>
+		<q_pairs_couples>Набрать %s пар в КотоПарах - не проблема!</q_pairs_couples>
+		<q_2048_points>Помоги мне набрать %s в 2048 Котов… Мяу… Мяу…</q_2048_points>
+		<q_buy_accessory>Хочу принарядиться! Давай купим мне аксессуар!</q_buy_accessory>
+		<q_happy>Заполни счетчики, чтобы сделать меня счастливым, улыбчивым котиком!</q_happy>
+		<q_levelup>Повысь мой уровень!</q_levelup>
+		<q_hold>Мяу… Погладь меня!</q_hold>
+		<q_cuddle>Хочу обнимашки! Погладь меня!</q_cuddle>
+		<q_toys>Давай поиграем с моими любимыми игрушками. Будет весело!</q_toys>
+		<a_tuto_hat>Давай купим мне шляпку.</a_tuto_hat>
+		<level_up>НОВЫЙ УРОВЕНЬ!</level_up>
+		<reward>Награда:</reward>
+		<score>Счет:</score>
+		<buy_confirm>Хочешь это купить?</buy_confirm>
+		<hint_1>Играй в мини-игры, чтобы заработать больше монет.</hint_1>
+		<hint_2>Заполняй счетчики голода, гигиены, радости и энергии, чтобы котик был счастлив.</hint_2>
+		<hint_3>Меняй мебель, чтобы сделать домик уютнее.</hint_3>
+		<hint_4>Повышай уровень котика и открывай новые предметы.</hint_4>
+		<hint_5>Выполни все задания, чтобы скорее повысить уровень.</hint_5>
+		<hint_6>Купи аксессуары в Магазине, чтобы котик выглядел еще лучше.</hint_6>
+		<hint_7>Покорми котика и заполни шкалу голода.</hint_7>
+		<hint_8>Искупай котика и заполни счетчик гигиены.</hint_8>
+		<hint_9>Купи лекарство и дай его котику, чтобы заполнить счетчик энергии.</hint_9>
+		<hint_10>Дай котику поспать или лекарство, и заполни счетчик энергии.</hint_10>
+		<out_energy_pop>Сил совсем нет. Сон поможет котику восстановить энергию!</out_energy_pop>
+		<q_feed_complete>Спасибо за еду!</q_feed_complete>
+		<q_bath_complete>Люблю быть чистеньким. Мяу!</q_bath_complete>
+		<q_med_complete>Лекарство мне помогло, хозяин.</q_med_complete>
+		<q_sleep_complete>Сон идет мне на пользу!</q_sleep_complete>
+		<q_mouse_complete>Я люблю гоняться за мышкой!</q_mouse_complete>
+		<q_jump_complete>КотоПрыгалка - моя любимая игра!</q_jump_complete>
+		<q_2048_complete>2048 Котов - отличная игра!</q_2048_complete>
+		<q_pairs_complete>КотоПары - очень интересная игра!</q_pairs_complete>
+		<q_fill_hungry_complete>Мой счетчик голода заполнен. Спасибо, хозяин!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Ура, мой счетчик гигиены заполнен!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Спасибо, что заполняешь мою шкалу радости.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Я полон энергии!</q_fill_energy_complete>
+		<q_buy_apple_complete>Спасибо за яблочко.</q_buy_apple_complete>
+		<q_buy_fish_complete>Мяу, рыбка! Люблю рыбку. Спасибо!</q_buy_fish_complete>
+		<q_buy_milk_complete>Спасибо за молочко. Ура!</q_buy_milk_complete>
+		<q_buy_chips_complete>Когда ем картошку фри, я представляю себя французом.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Спасибо за хот-дог.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>М-м, кошачий корм! Как вкусно.</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Спасибо за еду, хозяин!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Спасибо за лекарство, хозяин!</q_buy_med_complete>
+		<q_jump_points_complete>Так просто было подпрыгнуть %s р. в КотоПрыгалке!</q_jump_points_complete>
+		<q_pairs_couples_complete>Так просто было собрать %s пар в КотоПарах!</q_pairs_couples_complete>
+		<q_2048_points_complete>Было легко набрать %s очк. в 2048 Котов!</q_2048_points_complete>
+		<q_buy_accessory_complete>Отличный аксессуар! Спасибо!</q_buy_accessory_complete>
+		<q_happy_complete>Я счастлив. Спасибо!</q_happy_complete>
+		<q_levelup_complete>Новый уровень. Ура!</q_levelup_complete>
+		<q_hold_complete>Люблю, когда меня гладят.</q_hold_complete>
+		<q_cuddle_complete>Люблю обнимашки.</q_cuddle_complete>
+		<q_toys_complete>Люблю играть!</q_toys_complete>
+		<a_tuto_hat_complete>Крутая шляпка! Спасибо!</a_tuto_hat_complete>
+		<tuto_2048>Соединяй числа, чтобы получить 2048!</tuto_2048>
+		<tuto_pairs>Соедини двух одинаковых котиков!</tuto_pairs>
+		<tuto_accessory>Здесь можно менять аксессуары.</tuto_accessory>
+		<tuto_friend>Загляни в гости к другу.</tuto_friend>
+		<tuto_customize>Ты можешь изменить мебель по своему вкусу.</tuto_customize>
+		<tuto_minigame>Поиграй в мини-игры и получи монетки.</tuto_minigame>
+		<unlock_level>Откроется на ур. %s.</unlock_level>
+		<unlock_level_short>Ур. %s.</unlock_level_short>
+		<hint_11>Пока котик играет со своими игрушками, ты можешь сходить в магазин или заняться украшением домика.</hint_11>	
+		<tuto_pinata>Быстро жми на Котопиньяту, чтобы получить монетки.</tuto_pinata>
+		<tuto_diving>Жми на сокровища, чтобы собрать их.</tuto_diving>
+		<tuto_disco>Побольше жми на дискошар, чтобы котик пустился в пляс.</tuto_disco>
+		<tuto_pole>Жми влево/вправо, чтобы собрать падающие монетки.</tuto_pole>
+		<tuto_portal>Жми на участок под подарком, чтобы открыть портал.</tuto_portal>
+		<popup_nocoins>Не хватает монет.
+		Сыграй в мини-игры и получи больше монет.</popup_nocoins>
+		<unlock_item>Открыто:</unlock_item>
+		<tuto_2048_swipe>СМАХНИ, ЧТОБЫ СОЕДИНИТЬ ОДИНАКОВЫЕ ЧИСЛА.</tuto_2048_swipe>
+		<going_home>Идем домой...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Каждый день заходи в домик друга и получайте награду.</hint_friend>
+		<hint_shop>Покупай еду и лекарства для котика в магазине.</hint_shop>
+		<hint_12>Поиграй с игрушками или в мини-игры, чтобы заполнить шкалу радости.</hint_12>
+		<loading_wait_1>Этот экран загрузки появится только один раз. Подожди немного, мяу...</loading_wait_1>
+		<loading_wait_2>Чистим зубки...</loading_wait_2>
+		<loading_wait_3>Купаемся...</loading_wait_3>
+		<loading_wait_4>Сушим шерстку...</loading_wait_4>
+		<loading_wait_5>Душимся...</loading_wait_5>
+		<daily_day>День %s</daily_day>
+		<homescreen_title>ДОБАВЬ МЕНЯ НА ДОМАШНЮЮ СТРАНИЧКУ… МЯУ</homescreen_title>
+		<homescreen_button>Добавить на домашнюю страницу</homescreen_button>
+		<about_title>\1Gameloft
+		Сайгонская студия 1, команда разработки*</about_title>
+		<about>
+		\1Менеджер студии*
+		Phùng Việt Hưng
+		
+		\1Бизнес-команда*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Thị Trường An
+
+		\1Вед. продюсер*
+		Nguyễn Việt Cường
+
+		\1Продюсер*
+		Nguyễn Hoài Nam
+
+		\1Вед. гейм-дизайнер студии*
+		Lê Thiện Khiêm
+
+		\1Вед. гейм-дизайнер*
+		Nguyễn Quốc Đông
+
+		\1Гейм-дизайнер*
+		Huỳnh Châu Đoan
+
+		\1Вед. программист студии*
+		Trần Minh Tiến
+
+		\1Вед. программист*
+		Nguyễn Nguyên Vũ
+
+		\1Программисты*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Вед. художник студии*
+		Phạm Đình Thịnh
+
+		\1Вед. художник*
+		Elisio Lima DaCosta
+
+		\1Художники*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Менеджер тестирования студии*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Тестирование*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+		
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		This Font Software is licensed under the SIL Open Font License, Version 1.1.
+		This license is copied below, and is also available with a FAQ at:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="id">
+		<main_hello>Halo, [username]</main_hello>
+		<load_success>Game Tersimpan berhasil dimuat</load_success>
+		<load>Memuat...</load>
+		<save>Menyimpan...</save>
+		<saved>Game disimpan</saved>
+		<main_login>Log in untuk menyimpan game</main_login>
+		<logout_popup>Apakah kamu ingin log out dari Facebook?</logout_popup>
+		<login_popup>Silakan log in ke Facebook untuk menyimpan progresmu.</login_popup>
+		<fail_popup>Tidak dapat menghubungkan karena masalah jaringan atau server. Silakan periksa koneksi Internetmu dan coba lagi nanti.</fail_popup>
+		<q_feed>Tolong beri aku makan %s kali!</q_feed>
+		<q_bath>Meong! Mandikan aku %s kali!</q_bath>
+		<q_med>Aku ingin minum %s pak obat agar aku jadi lebih kuat.</q_med>
+		<q_sleep>Ayo tidur dan mimpi indah.</q_sleep>
+		<q_mouse>Mengejar tikus itu seru! Tangkap tikus %s kali.</q_mouse>
+		<q_jump>Loncat! Loncat! Bermain Cat Jump %s kali.</q_jump>
+		<q_2048>Tantang aku %s kali dalam game 2048 Cats.</q_2048>
+		<q_pairs>Ayo mainkan Cat Pairs %s kali bersamaku.</q_pairs>
+		<q_fill_hungry>Bantu aku mengisi indikator laparku.</q_fill_hungry>
+		<q_fill_hygiene>Bantu aku mengisi indikator kebersihanku.</q_fill_hygiene>
+		<q_fill_healthy>Bantu aku mengisi indikator keseruanku agar aku lebih ceria.</q_fill_healthy>
+		<q_fill_energy>Bantu aku mengisi indikator energiku agar aku dapat bermain lebih lama.</q_fill_energy>
+		<q_buy_apple>Sebutir buah apel sehari membuatku sehat, jadi belikan aku apel!</q_buy_apple>
+		<q_buy_fish>Ayo belikan makanan favoritku: ikan, ikan, ikan!</q_buy_fish>
+		<q_buy_milk>Aku suka minum susu. Belikan aku sebotol susu!</q_buy_milk>
+		<q_buy_chips>French fries, French fries di mana-mana! Belikan aku!</q_buy_chips>
+		<q_buy_hotdog>Meong… Aku ingin hot dog!</q_buy_hotdog>
+		<q_buy_catfood>Aku akan senang jika kamu membelikanku cat food.</q_buy_catfood>
+		<q_buy_anyfood>Belikan aku %s item makanan.</q_buy_anyfood>
+		<q_buy_med>Meong! Tolong belikan aku %s pak obat.</q_buy_med>
+		<q_jump_points>Melompat %s kali di mimpiku.</q_jump_points>
+		<q_pairs_couples>Mengumpulkan %s pasangan dalam Cat Pairs tidaklah sulit!</q_pairs_couples>
+		<q_2048_points>Bantu aku mencapai %s dalam 2048 Cats… Meong… Meong…</q_2048_points>
+		<q_buy_accessory>Aku ingin terlihat keren! Ayo beli aksesori untuk mengubah penampilanku.</q_buy_accessory>
+		<q_happy>Isi indikator agar aku bahagia.</q_happy>
+		<q_levelup>Naikkan Levelku!</q_levelup>
+		<q_hold>Meong… Peluk aku!</q_hold>
+		<q_cuddle>Aku ingin bermanja-manja! Belai aku!</q_cuddle>
+		<q_toys>Bermain di ruang bermain. Pasti seru!</q_toys>
+		<a_tuto_hat>Belikan aku topi untuk mengubah penampilanku.</a_tuto_hat>
+		<level_up>NAIK LEVEL!</level_up>
+		<reward>Hadiah:</reward>
+		<score>Skor: </score>
+		<buy_confirm>Apakah kamu ingin membeli item ini?</buy_confirm>
+		<hint_1>Mainkan mini game untuk mendapatkan lebih banyak koin.</hint_1>
+		<hint_2>Isi indikator lapar, kebersihan, keseruan, dan energi untuk membuat kucingmu bahagia.</hint_2>
+		<hint_3>Atur furnitur agar rumahmu lebih keren.</hint_3>
+		<hint_4>Naikkan level kucingmu untuk membuka item baru.</hint_4>
+		<hint_5>Lakukan semua tugas untuk meningkatkan level dengan lebih cepat.</hint_5>
+		<hint_6>Beli aksesori di Toko untuk membuat kucingmu terlihat lebih keren.</hint_6>
+		<hint_7>Beri makan kucingmu untuk mengisi indikator Lapar.</hint_7>
+		<hint_8>Mandikan kucingmu untuk mengisi indikator Kebersihan.</hint_8>
+		<hint_9>Beli obat dan berikan ke kucingmu untuk mengisi indikator kesehatan.</hint_9>
+		<hint_10>Tidur atau minum obat akan mengisi indikator Energi.</hint_10>
+		<out_energy_pop>Energimu habis. Energi akan terisi ulang saat kucingmu tidur.</out_energy_pop>
+		<q_feed_complete>Terima kasih untuk makanannya!</q_feed_complete>
+		<q_bath_complete>Terima kasih! Badanku sudah bersih. Meong.</q_bath_complete>
+		<q_med_complete>Obatmu sungguh manjur.</q_med_complete>
+		<q_sleep_complete>Tidur itu baik untukku!</q_sleep_complete>
+		<q_mouse_complete>Menangkap tikus sangat menyenangkan!</q_mouse_complete>
+		<q_jump_complete>Cat Jump adalah permainan favoritku!</q_jump_complete>
+		<q_2048_complete>2048 Cats adalah permainan keren!</q_2048_complete>
+		<q_pairs_complete>Wow, Cat Pairs sangat seru!</q_pairs_complete>
+		<q_fill_hungry_complete>Indikator laparku penuh. Terima kasih!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>Indikator kebersihanku penuh. Hore!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>Terima kasih sudah mengisi indikator keseruanku.</q_fill_healthy_complete>
+		<q_fill_energy_complete>Energiku penuh!</q_fill_energy_complete>
+		<q_buy_apple_complete>Terima kasih sudah membelikanku apel.</q_buy_apple_complete>
+		<q_buy_fish_complete>Meong, ikan! Aku suka ikan. Terima kasih!</q_buy_fish_complete>
+		<q_buy_milk_complete>Terima kasih untuk susunya.</q_buy_milk_complete>
+		<q_buy_chips_complete>French fries lezat.</q_buy_chips_complete>
+		<q_buy_hotdog_complete>Terima kasih sudah membelikanku hot dog.</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>Cat food! Kesukaanku!</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>Terima kasih untuk makanannya!</q_buy_anyfood_complete>
+		<q_buy_med_complete>Terima kasih untuk obatnya!</q_buy_med_complete>
+		<q_jump_points_complete>Melompat %s kali dalam Cat Jump tidaklah sulit!</q_jump_points_complete>
+		<q_pairs_couples_complete>Mengumpulkan %s pasang dalam Cat Pairs tidaklah sulit!</q_pairs_couples_complete>
+		<q_2048_points_complete>Mendapatkan %s poin dalam 2048 Cats tidaklah sulit!</q_2048_points_complete>
+		<q_buy_accessory_complete>Aksesori cantik! Terima kasih!</q_buy_accessory_complete>
+		<q_happy_complete>Aku sangat senang. Terima kasih!</q_happy_complete>
+		<q_levelup_complete>Naik level… Hore!</q_levelup_complete>
+		<q_hold_complete>Digendong memang menyenangkan!</q_hold_complete>
+		<q_cuddle_complete>Dimanja-manja memang menyenangkan!</q_cuddle_complete>
+		<q_toys_complete>Bermain sangat menyenangkan!</q_toys_complete>
+		<a_tuto_hat_complete>Topinya keren! Terima kasih!</a_tuto_hat_complete>
+		<tuto_2048>Gabungkan angka hingga mencapai 2048!</tuto_2048>
+		<tuto_pairs>Hubungkan 2 kucing yang identik untuk meraih skor!</tuto_pairs>
+		<tuto_accessory>Kamu bisa mengganti aksesori di sini.</tuto_accessory>
+		<tuto_friend>Mengunjungi rumah temanmu.</tuto_friend>
+		<tuto_customize>Kamu bisa mengatur furnitur sesukamu.</tuto_customize>
+		<tuto_minigame>Kamu bisa memainkan mini game untuk meraih koin di sini.</tuto_minigame>
+		<unlock_level>Terbuka di level %s.</unlock_level>
+		<unlock_level_short>Level %s</unlock_level_short>
+		<hint_11>Kamu bisa pergi berbelanja atau mendekorasi rumah saat kucingmu asyik bermain.</hint_11>	
+		<tuto_pinata>Ketuk Cat Piñata secepat mungkin untuk mendapatkan koin.</tuto_pinata>
+		<tuto_diving>Sentuh kotak harta karun untuk mengumpulkannya.</tuto_diving>
+		<tuto_disco>Ketuk bola disko sebanyak mungkin agar kucingmu tetap menari.</tuto_disco>
+		<tuto_pole>Sentuh kiri/kanan untuk mengumpulkan koin.</tuto_pole>
+		<tuto_portal>Sentuh alas di bawah hadiah untuk membuka portal.</tuto_portal>
+		<popup_nocoins>Koin tidak cukup.
+		Mainkan mini game untuk mendapat lebih banyak koin.</popup_nocoins>
+		<unlock_item>Kamu telah membuka:</unlock_item>
+		<tuto_2048_swipe>GESEK UNTUK MENGGABUNGKAN ANGKA YANG SAMA.</tuto_2048_swipe>
+		<going_home>Pulang…</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>Kunjungi rumah temanmu setiap hari untuk mendapatkan hadiah.</hint_friend>
+		<hint_shop>Beli makanan dan obat untuk kucingmu di toko.</hint_shop>
+		<hint_12>Mainkan mini game dan mainan untuk mengisi indikator Keseruan.</hint_12>
+		<loading_wait_1>Loading screen hanya muncul sekali. Tunggu sebentar...</loading_wait_1>
+		<loading_wait_2>Menggosok gigi...</loading_wait_2>
+		<loading_wait_3>Mandi gelembung...</loading_wait_3>
+		<loading_wait_4>Mengeringkan bulu...</loading_wait_4>
+		<loading_wait_5>Memakai parfum...</loading_wait_5>
+		<daily_day>Hari ke-%s</daily_day>
+		<homescreen_title>MEONG… TAMBAHKAN AKU KE LAYAR BERANDA!</homescreen_title>
+		<homescreen_button>Tambahkan ke layar Beranda</homescreen_button>
+		<about_title>\1Gameloft
+		Tim Creation Studio SA1*</about_title>
+		<about>
+		\1Manajer Studio*
+		Phùng Việt Hưng
+		
+		\1Tim Bisnis*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1Pimpinan Produser*
+		Nguyễn Việt Cường
+
+		\1Produser*
+		Nguyễn Hoài Nam
+
+		\1Pimpinan Perancang Game Studio*
+		Lê Thiện Khiêm
+
+		\1Pimpinan Perancang Game*
+		Nguyễn Quốc Đông
+
+		\1Perancang Game*
+		Huỳnh Châu Đoan
+
+		\1Pimpinan Programer Studio*
+		Trần Minh Tiến
+
+		\1Pimpinan Programer*
+		Nguyễn Nguyên Vũ
+
+		\1Programer*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1Pimpinan Artis Studio*
+		Phạm Đình Thịnh
+
+		\1Pimpinan Artis*
+		Elisio Lima DaCosta
+
+		\1Artis*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1Manajer Penjamin Mutu Studio*
+		Nguyễn Phương Vũ Tuấn
+
+		\1Penjamin Mutu*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+
+		Patrick Hand Font
+		Copyright (c) 2010-2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)
+		
+		This Font Software is licensed under the SIL Open Font License, Version 1.1.
+		This license is copied below, and is also available with a FAQ at:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="th">
+		<main_hello>สวัสดี [username]</main_hello>
+		<load_success>โหลดบันทึกสำเร็จ</load_success>
+		<load>กำลังโหลด...</load>
+		<save>กำลังบันทึก...</save>
+		<saved>บันทึกเกมแล้ว</saved>
+		<main_login>ล็อกอินเพื่อบันทึกเกม</main_login>
+		<logout_popup>คุณต้องการล็อกเอาท์ออกจาก Facebook หรือไม่</logout_popup>
+		<login_popup>โปรดล็อกอินเข้าสู่ Facebook เพื่อบันทึกความคืบหน้าของคุณ</login_popup>
+		<fail_popup>ไม่สามารถเชื่อมต่อได้เนื่องจากปัญหาทางเครือข่ายหรือ|เซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของ|คุณ และลองใหม่อีกครั้งในภายหลัง</fail_popup>
+		<q_feed>ให้อาหารเรา %s ครั้งหน่อยน้า!</q_feed>
+		<q_bath>เมี้ยว! อาบน้ำให้เรา
+		%s ครั้งหน่อยนะ!</q_bath>
+		<q_med>ให้เรากินยา %s ชุดนะ
+		เราจะได้มีพลังงานเพิ่ม</q_med>
+		<q_sleep>ไปนอนหลับฝันดีกันเถอะ</q_sleep>
+		<q_mouse>ไล่จับหนูสนุกจังเลย!
+		จับหนู %s ครั้ง</q_mouse>
+		<q_jump>กระโดด! กระโดด!
+		เล่นเกมแมวกระโดด %s ครั้ง</q_jump>
+		<q_2048>ท้าเราเล่นเกมแมว 2048 ตัว
+		%s ครั้งสิ</q_2048>
+		<q_pairs>เจ้านาย มาเล่นจับคู่แมว
+		%s ครั้งกันเถอะ</q_pairs>
+		<q_fill_hungry>ช่วยเติมแถบความหิวหน่อย</q_fill_hungry>
+		<q_fill_hygiene>ช่วยเติมแถบ
+		ความสะอาดหน่อย</q_fill_hygiene>
+		<q_fill_healthy>ช่วยเติมแถบความสนุกที
+		เราจะได้มีความสุขขึ้น</q_fill_healthy>
+		<q_fill_energy>ช่วยเติมแถบพลังงานหน่อย
+		เราจะได้เล่นต่อได้</q_fill_energy>
+		<q_buy_apple>แอปเปิลวันละนิดจิตแจ่มใส
+		ซื้อแอปเปิลให้เราหน่อย!</q_buy_apple>
+		<q_buy_fish>ซื้ออาหารโปรดให้เราหน่อย
+		ปลา ๆ ๆ!</q_buy_fish>
+		<q_buy_milk>เราชอบดื่มนม
+		ซื้อนมให้เรากล่องหนึ่งนะ!</q_buy_milk>
+		<q_buy_chips>เฟรนช์ฟรายส์ เฟรนช์ฟรายส์
+		เต็มไปหมดเลย! ซื้อให้เราหน่อย!</q_buy_chips>
+		<q_buy_hotdog>เมี้ยว... เราอยากกินฮอตด็อก!</q_buy_hotdog>
+		<q_buy_catfood>เราจะดีใจมากเลย
+		ถ้ามีคนซื้ออาหารแมวให้เรา</q_buy_catfood>
+		<q_buy_anyfood>เจ้านาย ช่วยซื้อไอเท็มอาหาร
+		ให้เรา %s ชิ้นหน่อยน้า!</q_buy_anyfood>
+		<q_buy_med>เมี้ยว! ช่วยเราซื้อยา
+		%s ชุดทีนะ</q_buy_med>
+		<q_jump_points>กระโดด %s ครั้งในความฝัน</q_jump_points>
+		<q_pairs_couples>จับคู่ %s คู่ในการจับคู่แมว
+		น่าจะง่าย ๆ นะ!</q_pairs_couples>
+		<q_2048_points>ช่วยเราทำคะแนน %s แต้ม
+		ในเกมแมว 2048 หน่อย… เมี้ยว…</q_2048_points>
+		<q_buy_accessory>เราอยากเท่! ซื้อเครื่องแต่งกายมาเปลี่ยนลุคให้เรากันเถอะ</q_buy_accessory>
+		<q_happy>เติมแถบต่าง ๆ เพื่อทำให้เรา
+		เป็นแมวที่มีความสุข</q_happy>
+		<q_levelup>อัพเลเวลเราหน่อยสิ!</q_levelup>
+		<q_hold>เมี้ยว... อุ้มเราหน่อยนะ!</q_hold>
+		<q_cuddle>อยากกอดจังเลย!
+		ลูบขนเราหน่อยนะ!</q_cuddle>
+		<q_toys>มาเล่นของเล่นในห้องเล่นเกม
+		ด้วยกันสิ ต้องสนุกแน่เลย!</q_toys>
+		<a_tuto_hat>ช่วยซื้อหมวกมาเปลี่ยนลุคให้เราที!</a_tuto_hat>
+		<level_up>เลเวลอัพ!</level_up>
+		<reward>รางวัล:</reward>
+		<score>คะแนน: </score>
+		<buy_confirm>คุณต้องการซื้อไอเท็มนี้หรือไม่</buy_confirm>
+		<hint_1>เล่นมินิเกมเพื่อรับเหรียญเพิ่ม</hint_1>
+		<hint_2>เติมแถบความหิว ความสะอาด ความสนุก และพลังงานให้แมวของคุณมีความสุข</hint_2>
+		<hint_3>ปรับแต่งเฟอร์นิเจอร์เพื่อให้บ้านน่าอยู่ขึ้น</hint_3>
+		<hint_4>อัพเลเวลแมวเพื่อปลดล็อคไอเท็มใหม่ ๆ</hint_4>
+		<hint_5>ทำเควสท์ทั้งหมดเพื่อให้อัพเลเวลได้เร็วขึ้น</hint_5>
+		<hint_6>ซื้อเครื่องแต่งกายในร้านค้าเพื่อเพิ่มความเท่ให้แมวของคุณ</hint_6>
+		<hint_7>ให้อาหารแมวเพื่อเติมแถบความหิว</hint_7>
+		<hint_8>อาบน้ำแมวเพื่อเติมแถบความสะอาด</hint_8>
+		<hint_9>ซื้อยาและเอายาให้แมวเพื่อเติมแถบสุขภาพ</hint_9>
+		<hint_10>ให้แมวนอน/กินยาเพื่อเติมแถบพลังงาน</hint_10>
+		<out_energy_pop>พลังงานหมด ต้องปล่อยให้แมวนอนเพื่อเติมพลังงาน!</out_energy_pop>
+		<q_feed_complete>ขอบคุณที่ให้อาหารเรานะ!</q_feed_complete>
+		<q_bath_complete>ขอบคุณนะเจ้านาย! เราชอบเวลา
+		ขนสะอาด ๆ มากเลย เมี้ยว</q_bath_complete>
+		<q_med_complete>ยาได้ผลดีมากเลยเจ้านาย</q_med_complete>
+		<q_sleep_complete>การนอนนี่มันดีแก่ชีวิต!</q_sleep_complete>
+		<q_mouse_complete>ไล่จับหนูสนุกมากเลยนะจะบอกให้!</q_mouse_complete>
+		<q_jump_complete>เกมแมวกระโดดนี่เกมโปรดเราเลย ฮิฮิ!</q_jump_complete>
+		<q_2048_complete>เกมแมว 2048 ตัวเป็นเกมที่ดีมากเลย!</q_2048_complete>
+		<q_pairs_complete>โอ้โห เกมจับคู่แมวสนุกมากเลย!</q_pairs_complete>
+		<q_fill_hungry_complete>แถวความหิวเต็มแล้ว ขอบคุณมากเจ้านาย!</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>อู้วว แถบความสะอาดเต็มแล้ว เย้!</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>ขอบคุณที่เติมแถบความสนุกนะ!</q_fill_healthy_complete>
+		<q_fill_energy_complete>พลังงานเต็มแล้วละตอนนี้!</q_fill_energy_complete>
+		<q_buy_apple_complete>ขอบคุณที่ซื้อแอปเปิลมาฝากนะ</q_buy_apple_complete>
+		<q_buy_fish_complete>เมี้ยว ปลาเหรอ! เราชอบกินปลาที่สุดเลย ขอบคุณนะ!</q_buy_fish_complete>
+		<q_buy_milk_complete>ขอบคุณที่ซื้อนมมาให้เรากินนะ ฮูเร่!</q_buy_milk_complete>
+		<q_buy_chips_complete>กินเฟรนช์ฟรายส์แล้วรู้สึกเป็นแมวฝรั่งเลย</q_buy_chips_complete>
+		<q_buy_hotdog_complete>ขอบคุณที่ซื้อฮอตด็อกมาให้กินนะ</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>อาหารแมวเนี่ยแหละถูกใจเราเลย!</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>ขอบคุณสำหรับอาหารนะเจ้านาย!</q_buy_anyfood_complete>
+		<q_buy_med_complete>ขอบคุณสำหรับยานะเจ้านาย!</q_buy_med_complete>
+		<q_jump_points_complete>กระโดด %s ครั้งน่ะง่ายจะตาย!</q_jump_points_complete>
+		<q_pairs_couples_complete>จับคู่แมว %s คู่น่ะง่ายจะตาย!</q_pairs_couples_complete>
+		<q_2048_points_complete>ทำแต้มถึง %s แต้มใน
+		เกมแมว 2048 ตัวน่ะง่ายมาก!</q_2048_points_complete>
+		<q_buy_accessory_complete>เครื่องแต่งกายสวยจัง! ขอบคุณมากเลย!</q_buy_accessory_complete>
+		<q_happy_complete>ตอนนี้เรามีความสุขมากเลยละ
+		ขอบคุณนะ!</q_happy_complete>
+		<q_levelup_complete>เลเวลอัพแล้ว เย้!</q_levelup_complete>
+		<q_hold_complete>อบอุ่นที่สุดเวลามีคนมาอุ้ม</q_hold_complete>
+		<q_cuddle_complete>อบอุ่นที่สุดเวลามีคนมากอด</q_cuddle_complete>
+		<q_toys_complete>เล่นกับของเล่นนี่มันสนุกมาก ๆ เลย!</q_toys_complete>
+		<a_tuto_hat_complete>หมวกเก๋ดีนะ! ขอบคุณมาก!</a_tuto_hat_complete>
+		<tuto_2048>รวมเลขและทำให้ถึง 2048!</tuto_2048>
+		<tuto_pairs>เชื่อมแมวที่เหมือนกัน 2 ตัวเพื่อทำคะแนน!</tuto_pairs>
+		<tuto_accessory>คุณสามารถเปลี่ยนเครื่องแต่งกายได้ที่นี่</tuto_accessory>
+		<tuto_friend>ไปบ้านเพื่อน</tuto_friend>
+		<tuto_customize>คุณสามารถปรับแต่งเฟอร์นิเจอร์ให้เป็นแบบที่คุณชอบ</tuto_customize>
+		<tuto_minigame>คุณสามารถเล่นมินิเกมเพื่อรับเหรียญได้ที่นี่</tuto_minigame>
+		<unlock_level>ปลดล็อคที่เลเวล %s</unlock_level>
+		<unlock_level_short>เลเวล %s</unlock_level_short>
+		<hint_11>ระหว่างที่แมวกำลังเล่นของเล่นอยู่ คุณสามารถไปซื้อของหรือตกแต่งบ้านได้</hint_11>	
+		<tuto_pinata>แตะปีญาตาแมวให้เร็วที่สุดเพื่อรับเหรียญ</tuto_pinata>
+		<tuto_diving>แตะสมบัติเพื่อเก็บ</tuto_diving>
+		<tuto_disco>แตะบอลดิสโก้ให้มากที่สุดเพื่อให้แมวเต้นต่อไป</tuto_disco>
+		<tuto_pole>แตะซ้าย/ขวาเพื่อเก็บเหรียญที่ร่วงลงมา</tuto_pole>
+		<tuto_portal>แตะพื้นใต้กล่องของขวัญเพื่อเปิดประตูมิติ</tuto_portal>
+		<popup_nocoins>มีเหรียญไม่พอ
+		เล่นมินิเกมเพื่อรับเพิ่ม</popup_nocoins>
+		<unlock_item>คุณปลดล็อค:</unlock_item>
+		<tuto_2048_swipe>ปัดนิ้วเพื่อรวมตัวเลขที่เหมือนกัน</tuto_2048_swipe>
+		<going_home>กำลังกลับบ้าน...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>ไปบ้านเพื่อนทุกวันเพื่อรับรางวัล</hint_friend>
+		<hint_shop>ซื้ออาหารและยาให้แมวได้ที่ร้านค้านะ</hint_shop>
+		<hint_12>เล่นของเล่น/มินิเกมเติมแถบความสนุก</hint_12>
+		<loading_wait_1>หน้าจอโหลดนี้จะปรากฏแค่ครั้งเดียว
+		รอหน่อยนะ...</loading_wait_1>
+		<loading_wait_2>กำลังแปรงฟัน...</loading_wait_2>
+		<loading_wait_3>กำลังอาบน้ำฟองสบู่...</loading_wait_3>
+		<loading_wait_4>กำลังเป่าขน...</loading_wait_4>
+		<loading_wait_5>กำลังพรมน้ำหอม...</loading_wait_5>
+		<daily_day>วันที่ %s</daily_day>
+		<homescreen_title>เมี้ยว... เพิ่มเราเข้าไปที่
+		หน้าจอหลักด้วยนะ!</homescreen_title>
+		<homescreen_button>เพิ่มเข้าไปที่หน้าจอหลัก</homescreen_button>
+		<about_title>\1Gameloft
+		ฝ่ายสร้างเกม สตูดิโอ SA1*</about_title>
+		<about>
+		\1ผู้จัดการสตูดิโอ*
+		Phùng Việt Hưng
+		
+		\1ฝ่ายธุรกิจ*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1โปรดิวเซอร์หลัก*
+		Nguyễn Việt Cường
+
+		\1โปรดิวเซอร์*
+		Nguyễn Hoài Nam
+
+		\1ฝ่ายออกแบบเกมหลักประจำสตูดิโอ*
+		Lê Thiện Khiêm
+
+		\1ฝ่ายออกแบบเกมหลัก*
+		Nguyễn Quốc Đông
+
+		\1ฝ่ายออกแบบเกม*
+		Huỳnh Châu Đoan
+
+		\1โปรแกรมเมอร์หลักประจำสตูดิโอ*
+		Trần Minh Tiến
+
+		\1โปรแกรมเมอร์หลัก*
+		Nguyễn Nguyên Vũ
+
+		\1โปรแกรมเมอร์*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1ฝ่ายศิลป์หลักประจำสตูดิโอ*
+		Phạm Đình Thịnh
+
+		\1ฝ่ายศิลป์หลัก*
+		Elisio Lima DaCosta
+
+		\1ฝ่ายศิลป์*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1ผู้จัดการฝ่ายรับรองคุณภาพประจำสตูดิโอ*
+		Nguyễn Phương Vũ Tuấn
+
+		\1ฝ่ายรับรองคุณภาพ*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+
+		ฟอนต์ Patrick Hand
+		ลิขสิทธิ์ (c) 2010-2012 Patrick Wagesreiter
+		(mail@patrickwagesreiter.at)
+		
+		ซอฟต์แวร์ฟอนต์นี้ได้รับอนุญาตภายใต้
+		SIL Open Font License เวอร์ชั่น 1.1
+		สัญญาอนุญาตนี้ได้รับการคัดลอกไว้ด้านล่าง
+		สามารถดูสัญญาอนุญาตพร้อมคำถามที่พบบ่อยได้ที่:
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="tw">
+		<main_hello>你好，[username]！</main_hello>
+		<load_success>已成功載入存檔</load_success>
+		<load>載入中...</load>
+		<save>儲存中...</save>
+		<saved>遊戲已存檔</saved>
+		<main_login>登入以儲存遊戲進度</main_login>
+		<logout_popup>你想要登出Facebook嗎？</logout_popup>
+		<login_popup>請登入Facebook以儲存你的進度</login_popup>
+		<fail_popup>因發生網路或伺服器問題而無法連線|請檢查你的網路連線並稍後再試</fail_popup>
+		<q_feed>請餵我%s次！</q_feed>
+		<q_bath>喵！請替我洗%s次澡！</q_bath>
+		<q_med>請餵我吃%s包藥，
+		讓我獲得更多能量。</q_med>
+		<q_sleep>去睡覺然後做個好夢吧！</q_sleep>
+		<q_mouse>抓老鼠好像很有趣！
+		抓住老鼠%s次。</q_mouse>
+		<q_jump>跳啊！跳啊！
+		玩跳跳貓遊戲%s次。</q_jump>
+		<q_2048>讓我玩%s次喵喵2048。</q_2048>
+		<q_pairs>主人，我們一起玩
+		%s次貓咪對對碰吧！</q_pairs>
+		<q_fill_hungry>請填滿我的溫飽計量球吧！</q_fill_hungry>
+		<q_fill_hygiene>請填滿我的衛生計量球吧！</q_fill_hygiene>
+		<q_fill_healthy>幫我填滿樂趣計量球，讓我變得更開心。</q_fill_healthy>
+		<q_fill_energy>填滿我的能量計量球，讓我繼續玩耍。</q_fill_energy>
+		<q_buy_apple>每日一蘋果，醫生遠離我。
+		買一個蘋果給我吧！</q_buy_apple>
+		<q_buy_fish>請幫我買我最喜歡的食物：
+		新鮮的魚、美味的魚！</q_buy_fish>
+		<q_buy_milk>我想喝牛奶。
+		請買一盒牛奶給我！</q_buy_milk>
+		<q_buy_chips>炸薯條，到處都是炸薯條！
+		買些薯條給我！</q_buy_chips>
+		<q_buy_hotdog>喵...我想要一根熱狗！</q_buy_hotdog>
+		<q_buy_catfood>如果買一包貓糧給我，
+		喵會很高興唷！</q_buy_catfood>
+		<q_buy_anyfood>主人，請買%s份食物給我！</q_buy_anyfood>
+		<q_buy_med>喵！請幫我買%s份藥物。</q_buy_med>
+		<q_jump_points>在夢裡跳躍%s次。</q_jump_points>
+		<q_pairs_couples>在貓咪對對碰裡配對%s組圖案
+		應該很簡單！</q_pairs_couples>
+		<q_2048_points>幫我在喵喵2048裡達到%s
+		...喵嗚...喵嗚…</q_2048_points>
+		<q_buy_accessory>我想變得更酷！購買配件來改變我的樣子吧。</q_buy_accessory>
+		<q_happy>補滿計量球讓我成為開心快樂的貓咪。</q_happy>
+		<q_levelup>讓我升級！</q_levelup>
+		<q_hold>抱我，抱我，抱我喵！</q_hold>
+		<q_cuddle>我要摸摸！摸摸我吧！</q_cuddle>
+		<q_toys>在遊戲室玩玩具。很好玩唷！</q_toys>
+		<a_tuto_hat>幫我買一頂帽子來改變我的樣子。</a_tuto_hat>
+		<level_up>升級！</level_up>
+		<reward>獎勵：</reward>
+		<score>分數：</score>
+		<buy_confirm>你想購要買這件物品嗎？</buy_confirm>
+		<hint_1>玩小遊戲賺取更多金幣</hint_1>
+		<hint_2>填滿溫飽、衛生、樂趣和能量計量球，讓貓咪心情愉快。</hint_2>
+		<hint_3>自己擺設傢俱，讓居家環境變得更酷！</hint_3>
+		<hint_4>升級貓咪解鎖新物品</hint_4>
+		<hint_5>完成所有任務加快升級</hint_5>
+		<hint_6>在商店購買配件，讓你的貓咪看起來更酷。</hint_6>
+		<hint_7>餵食貓咪以填滿溫飽計量球</hint_7>
+		<hint_8>幫貓咪洗澡以填滿衛生計量球</hint_8>
+		<hint_9>購買藥物給你的貓咪服用來填滿健康計量球。</hint_9>
+		<hint_10>讓貓咪睡覺或吃藥以填滿能量計量球</hint_10>
+		<out_energy_pop>能量不足。讓你的貓咪睡覺以補充能量！</out_energy_pop>
+		<q_feed_complete>謝謝你餵我吃東西！</q_feed_complete>
+		<q_bath_complete>謝謝你，主人！我喜歡保持乾淨。喵。</q_bath_complete>
+		<q_med_complete>你給的藥很有效，主人。</q_med_complete>
+		<q_sleep_complete>睡覺對身體很好！</q_sleep_complete>
+		<q_mouse_complete>抓老鼠好好玩唷！</q_mouse_complete>
+		<q_jump_complete>跳跳貓遊戲是我最喜歡的活動，嘻嘻！</q_jump_complete>
+		<q_2048_complete>喵喵2048是很棒的遊戲！</q_2048_complete>
+		<q_pairs_complete>喵，貓咪對對碰好好玩啊！</q_pairs_complete>
+		<q_fill_hungry_complete>我的溫飽計量球填滿喵。謝謝主人！</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>噢，我的衛生計量球填滿了。耶！</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>謝謝你填滿我的樂趣計量球。</q_fill_healthy_complete>
+		<q_fill_energy_complete>我現在充滿能量啦！</q_fill_energy_complete>
+		<q_buy_apple_complete>謝謝你買蘋果給我。</q_buy_apple_complete>
+		<q_buy_fish_complete>喵，是魚！我最愛吃魚了。謝謝！</q_buy_fish_complete>
+		<q_buy_milk_complete>謝謝你給我牛奶。喲呼！</q_buy_milk_complete>
+		<q_buy_chips_complete>那些炸薯條讓我覺得自己像馬鈴薯。</q_buy_chips_complete>
+		<q_buy_hotdog_complete>謝謝你買熱狗給我。</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>耶，是貓糧！正好是我想要的東西。</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>謝謝你餵我吃東西，主人！</q_buy_anyfood_complete>
+		<q_buy_med_complete>謝謝你給我買藥，主人！</q_buy_med_complete>
+		<q_jump_points_complete>在跳跳貓遊戲跳躍%s次很容易吧！</q_jump_points_complete>
+		<q_pairs_couples_complete>在貓咪對對碰配對%s組圖案很容易吧！</q_pairs_couples_complete>
+		<q_2048_points_complete>在喵喵2048拿到%s分很容易吧！</q_2048_points_complete>
+		<q_buy_accessory_complete>很棒的配件！謝謝！</q_buy_accessory_complete>
+		<q_happy_complete>我現在超開心。謝謝你！</q_happy_complete>
+		<q_levelup_complete>升級了！耶，我升級了！</q_levelup_complete>
+		<q_hold_complete>被抱著的感覺真好。</q_hold_complete>
+		<q_cuddle_complete>最喜歡被摸摸了。</q_cuddle_complete>
+		<q_toys_complete>玩具真好玩！</q_toys_complete>
+		<a_tuto_hat_complete>那頂帽子真酷！謝謝！</a_tuto_hat_complete>
+		<tuto_2048>投入數字世界，玩喵喵2048！</tuto_2048>
+		<tuto_pairs>連接兩隻相同的貓咪以獲得分數！</tuto_pairs>
+		<tuto_accessory>你可以在這裡更換配件。</tuto_accessory>
+		<tuto_friend>前往好友的家</tuto_friend>
+		<tuto_customize>你可按自己的喜好自訂傢俱。</tuto_customize>
+		<tuto_minigame>你可以在此玩小遊戲來賺取金幣。</tuto_minigame>
+		<unlock_level>於等級%s時解鎖</unlock_level>
+		<unlock_level_short>等級%s</unlock_level_short>
+		<hint_11>當貓咪正在玩玩具時，你可前往購物或裝飾房子。</hint_11>	
+		<tuto_pinata>盡量快速點擊貓咪皮納塔以獲得金幣。</tuto_pinata>
+		<tuto_diving>點擊寶藏以收集。</tuto_diving>
+		<tuto_disco>盡量不斷點擊迪斯可燈球以讓貓咪繼續跳舞。</tuto_disco>
+		<tuto_pole>按左或按右以收集掉下來的金幣。</tuto_pole>
+		<tuto_portal>按禮物下方的地面以打開禮物傳送門。</tuto_portal>
+		<popup_nocoins>金幣不足。
+		玩小遊戲以獲得更多金幣。</popup_nocoins>
+		<unlock_item>你已解鎖：</unlock_item>
+		<tuto_2048_swipe>滑動來合併相同的數字</tuto_2048_swipe>
+		<going_home>回家中...</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>每天探訪好友的家以獲得獎勵</hint_friend>
+		<hint_shop>在商店為你的貓咪購買食物和藥物</hint_shop>
+		<hint_12>玩小遊戲和玩具來填滿樂趣計量球</hint_12>
+		<loading_wait_1>此載入畫面只出現一次。拜託你等等喵...</loading_wait_1>
+		<loading_wait_2>超多有趣玩意等著你哦！</loading_wait_2>
+		<loading_wait_3>還差一點點就好了喵！</loading_wait_3>
+		<loading_wait_4>洗澡並吹乾毛髮...</loading_wait_4>
+		<loading_wait_5>進行美容中...</loading_wait_5>
+		<daily_day>第 %s 天</daily_day>
+		<homescreen_title>喵...請把我設為首頁吧！</homescreen_title>
+		<homescreen_button>設為首頁</homescreen_button>
+		<about_title>\1Gameloft
+		西貢工作室創作團隊*</about_title>
+		<about>
+		\1工作室經理*
+		Phùng Việt Hưng
+		
+		\1業務團隊*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1主製作人*
+		Nguyễn Việt Cường
+
+		\1製作人*
+		Nguyễn Hoài Nam
+
+		\1工作室遊戲企劃主任*
+		Lê Thiện Khiêm
+
+		\1遊戲企劃組長*
+		Nguyễn Quốc Đông
+
+		\1遊戲企劃*
+		Huỳnh Châu Đoan
+
+		\1工作室程式設計主任*
+		Trần Minh Tiến
+
+		\1程式設計組長*
+		Nguyễn Nguyên Vũ
+
+		\1程式設計小組*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1工作室美術主任*
+		Phạm Đình Thịnh
+
+		\1美術組長*
+		Elisio Lima DaCosta
+
+		\1美術小組*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1工作室品保經理*
+		Nguyễn Phương Vũ Tuấn
+
+		\1品保小組*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+ 
+		Patrick Hand 字型
+		Copyright (c) 2010-2012 Patrick Wagesreiter 
+		(mail@patrickwagesreiter.at)
+		
+		該字型軟體由 SIL Open Font License（版本1.1）授權。
+		請至下列網頁查看授權複本以及常見問題集：
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<language lang="cn">
+		<main_hello>你好，[username]</main_hello>
+		<load_success>存档已成功载入</load_success>
+		<load>正在加载……</load>
+		<save>正在保存……</save>
+		<saved>游戏已保存</saved>
+		<main_login>登录以保存游戏</main_login>
+		<logout_popup>你想要注销Facebook吗？</logout_popup>
+		<login_popup>请登录Facebook，以保存你的进度。</login_popup>
+		<fail_popup>由于网络或服务器问题，无法连接。|请检查你的网络连接，并稍后重试。</fail_popup>
+		<q_feed>给我喂食%s次吧喵。</q_feed>
+		<q_bath>喵，请给我洗%s次澡喵。</q_bath>
+		<q_med>给我吃%s包药来补充体力喵。</q_med>
+		<q_sleep>我们去睡一觉，做个
+		好梦喵！</q_sleep>
+		<q_mouse>追老鼠好好玩啊！
+		抓住老鼠%s次吧喵。</q_mouse>
+		<q_jump>跳啊跳，跳啊跳， 玩%s次跳跳游戏吧喵。</q_jump>
+		<q_2048>和我玩%s次2048喵游戏吧。</q_2048>
+		<q_pairs>主人，我们一起来玩%s次
+		喵喵对对碰吧喵!</q_pairs>
+		<q_fill_hungry>帮我填满饱腹度指示条喵。</q_fill_hungry>
+		<q_fill_hygiene>帮我填满清洁度指示条喵。</q_fill_hygiene>
+		<q_fill_healthy>快乐度指示条要再填满满
+		一点，我才会更开心喵。</q_fill_healthy>
+		<q_fill_energy>体力指示条填满满，我才
+		更有精神陪你玩喵。</q_fill_energy>
+		<q_buy_apple>一日一苹果，医生远离我呢喵。
+		快给我买个苹果！</q_buy_apple>
+		<q_buy_fish>给我买那个，我要我最喜欢的
+		那个：鱼，鱼，鱼，喵！</q_buy_fish>
+		<q_buy_milk>我想喝牛奶喵。
+		给我买一盒喵！</q_buy_milk>
+		<q_buy_chips>炸薯条，大家都吃炸薯条，
+		也给我买吧喵!</q_buy_chips>
+		<q_buy_hotdog>喵……我想吃热狗！</q_buy_hotdog>
+		<q_buy_catfood>给我买包猫粮我就会超
+		开心哦喵！</q_buy_catfood>
+		<q_buy_anyfood>主人，给我买%s份食物吧喵！</q_buy_anyfood>
+		<q_buy_med>喵！请帮我买%s包药吧喵。</q_buy_med>
+		<q_jump_points>在梦里跳%s次喵。</q_jump_points>
+		<q_pairs_couples>在喵喵对对碰里消除%s对
+		猫咪很简单吧喵！</q_pairs_couples>
+		<q_2048_points>帮我在2048喵里达到%s
+		……求你了喵……</q_2048_points>
+		<q_buy_accessory>我希望能变得酷酷的，给我买
+		小饰品嘛喵!</q_buy_accessory>
+		<q_happy>填充这个指示条，让我成为一只
+		笑容满面的快乐小猫咪。</q_happy>
+		<q_levelup>帮我升级呀喵！</q_levelup>
+		<q_hold>抱我，抱我，抱我喵！</q_hold>
+		<q_cuddle>我想和你亲亲，快好好摸摸
+		我呀喵！</q_cuddle>
+		<q_toys>在游戏室玩玩具吧喵，
+		一定会很好玩！</q_toys>
+		<a_tuto_hat>给我买顶帽子让我换个装嘛喵！</a_tuto_hat>
+		<level_up>升级啦!</level_up>
+		<reward>奖励：</reward>
+		<score>得分：</score>
+		<buy_confirm>确定要购买这件物品吗？</buy_confirm>
+		<hint_1>玩小游戏可以获得更多金币。</hint_1>
+		<hint_2>填充饱腹度、清洁度、快乐度和
+		体力指示条，让你的小猫高高兴兴的。</hint_2>
+		<hint_3>自定义你的家具让你的家变得更酷。</hint_3>
+		<hint_4>升级猫咪以解锁新道具。</hint_4>
+		<hint_5>完成所有任务可以更快升级。</hint_5>
+		<hint_6>在商店购买小饰品能让你的小猫看起来更漂亮。</hint_6>
+		<hint_7>给小猫喂食来填满饱腹度指示条。</hint_7>
+		<hint_8>给小猫洗澡来填满清洁度指示条。</hint_8>
+		<hint_9>购买药品并喂给你的小猫来填满健康度指示条！</hint_9>
+		<hint_10>让猫咪睡觉或是吃药可以填充体力指示条。</hint_10>
+		<out_energy_pop>体力用光啦！让你的小猫睡一会儿来补充体力吧！</out_energy_pop>
+		<q_feed_complete>食物，谢谢啦！</q_feed_complete>
+		<q_bath_complete>谢谢主人！干干净净最开心了喵。</q_bath_complete>
+		<q_med_complete>你的药真是救了猫命啦，主人。</q_med_complete>
+		<q_sleep_complete>睡觉对我很有好处！</q_sleep_complete>
+		<q_mouse_complete>追老鼠可好玩了，你看！</q_mouse_complete>
+		<q_jump_complete>跳跳游戏是我的最爱，嘿嘿！</q_jump_complete>
+		<q_2048_complete>2048喵是个好游戏喵！</q_2048_complete>
+		<q_pairs_complete>喵，对对碰太有趣啦喵！</q_pairs_complete>
+		<q_fill_hungry_complete>饱腹度指示条已经满啦。谢谢主人喵！</q_fill_hungry_complete>
+		<q_fill_hygiene_complete>哇，清洁度指示条满了。太棒了喵！</q_fill_hygiene_complete>
+		<q_fill_healthy_complete>谢谢你帮我填满了快乐度指示条喵！</q_fill_healthy_complete>
+		<q_fill_energy_complete>我现在感觉浑身是劲喵！</q_fill_energy_complete>
+		<q_buy_apple_complete>谢谢你给我买的苹果喵！</q_buy_apple_complete>
+		<q_buy_fish_complete>喵，是鱼啊！我爱鱼，谢谢喵！</q_buy_fish_complete>
+		<q_buy_milk_complete>牛奶谢谢啦，耶嘿嘿嘿！</q_buy_milk_complete>
+		<q_buy_chips_complete>炸薯条呀，感觉变成法国猫啦。</q_buy_chips_complete>
+		<q_buy_hotdog_complete>谢谢你给我买热狗喵。</q_buy_hotdog_complete>
+		<q_buy_catfood_complete>啊，猫粮呀！我说的就是这个喵。</q_buy_catfood_complete>
+		<q_buy_anyfood_complete>谢谢你的食物，主人！</q_buy_anyfood_complete>
+		<q_buy_med_complete>谢谢你的药，主人！</q_buy_med_complete>
+		<q_jump_points_complete>在跳跳游戏中跳%s次真是太容易了！</q_jump_points_complete>
+		<q_pairs_couples_complete>喵喵对对碰要配成%s对轻轻松松啦！</q_pairs_couples_complete>
+		<q_2048_points_complete>2048喵要拿到%s分很简单！</q_2048_points_complete>
+		<q_buy_accessory_complete>这件饰品真漂亮！谢谢你喵！</q_buy_accessory_complete>
+		<q_happy_complete>我现在好开心。谢谢！</q_happy_complete>
+		<q_levelup_complete>升级啦喵！</q_levelup_complete>
+		<q_hold_complete>最喜欢摸摸了喵。</q_hold_complete>
+		<q_cuddle_complete>最喜欢抱抱了喵。</q_cuddle_complete>
+		<q_toys_complete>玩玩具真有意思！</q_toys_complete>
+		<a_tuto_hat_complete>帽子好酷啊！谢谢你喵！</a_tuto_hat_complete>
+		<tuto_2048>组合数字，得出2048。</tuto_2048>
+		<tuto_pairs>连接两只相同的猫咪即可得分！</tuto_pairs>
+		<tuto_accessory>你可以在这里更换饰品。</tuto_accessory>
+		<tuto_friend>拜访好友的家。</tuto_friend>
+		<tuto_customize>你可以将家具打造成你喜欢的样子。</tuto_customize>
+		<tuto_minigame>你可以在这里玩小游戏来挣取金币。</tuto_minigame>
+		<unlock_level>解锁于%s级。</unlock_level>
+		<unlock_level_short>等级%s</unlock_level_short>
+		<hint_11>小猫玩玩具的时候，你可以去购物或者装饰屋子。</hint_11>	
+		<tuto_pinata>用最快速度点击小猫皮纳塔来获取金币。</tuto_pinata>
+		<tuto_diving>点击宝藏把它们收集起来。</tuto_diving>
+		<tuto_disco>尽可能多地点击迪斯科灯球，让猫一直跳舞。</tuto_disco>
+		<tuto_pole>点击左/右键来收集掉落的金币。</tuto_pole>
+		<tuto_portal>点击礼物下方的地面进入礼物界面。</tuto_portal>
+		<popup_nocoins>金币不足。
+		玩小游戏来获得更多金币。</popup_nocoins>
+		<unlock_item>您解锁了：</unlock_item>
+		<tuto_2048_swipe>滑动屏幕组合相同数字。</tuto_2048_swipe>
+		<going_home>正在回家……</going_home>
+		<tuto_first_quest>Quests</tuto_first_quest>
+		<tuto_first_customize>Customize</tuto_first_customize>
+		<tuto_first_friend>Friends</tuto_first_friend>
+		<tuto_first_game>Minigames</tuto_first_game>
+		<tuto_first_shop>Shop</tuto_first_shop>
+		<tuto_first_level>Level</tuto_first_level>
+		<tuto_first_feed>Feed</tuto_first_feed>
+		<tuto_first_bath>Bath</tuto_first_bath>
+		<tuto_first_fun>Interact</tuto_first_fun>
+		<tuto_first_energy>Sleep</tuto_first_energy>
+		<hint_friend>每天拜访好友的家以获取奖励。</hint_friend>
+		<hint_shop>在商店中为你的小猫购买食物和药品。</hint_shop>
+		<hint_12>玩玩具和小游戏以填充欢乐度指示条。</hint_12>
+		<loading_wait_1>加载画面只要再一下子就结束啦，
+		请再稍微等一爪爪嘛……</loading_wait_1>
+		<loading_wait_2>正在刷牙……</loading_wait_2>
+		<loading_wait_3>正在洗泡泡浴……</loading_wait_3>
+		<loading_wait_4>正在烘干毛发……</loading_wait_4>
+		<loading_wait_5>正在喷香水……</loading_wait_5>
+		<daily_day>第%s天</daily_day>
+		<homescreen_title>拜托啦喵……把我加到主屏幕上吧！</homescreen_title>
+		<homescreen_button>添加至主屏幕</homescreen_button>
+		<about_title>\1Gameloft
+		西贡工作室开发团队*</about_title>
+		<about>
+		\1工作室经理*
+		Phùng Việt Hưng
+		
+		\1商业团队*
+		Aurelien Lavaud
+		Ngô Lan Phương
+		Nguyễn Trường An
+
+		\1主制作人*
+		Nguyễn Việt Cường
+
+		\1制作人*
+		Nguyễn Hoài Nam
+
+		\1工作室游戏主策划*
+		Lê Thiện Khiêm
+
+		\1游戏主策划*
+		Nguyễn Quốc Đông
+
+		\1游戏策划*
+		Huỳnh Châu Đoan
+
+		\1工作室主程序*
+		Trần Minh Tiến
+
+		\1主程序*
+		Nguyễn Nguyên Vũ
+
+		\1程序*
+		Đào Ngọc Hoàng
+		Vũ Ngọc Hoàng
+		Vũ Hoàng Anh
+
+		\1工作室主美*
+		Phạm Đình Thịnh
+
+		\1主美术*
+		Elisio Lima DaCosta
+
+		\1美术*
+		Trần Thị Mai Trang
+		Đỗ Phạm Trúc Duyên
+		Vi Hồng Luân
+
+		\1工作室测试经理*
+		Nguyễn Phương Vũ Tuấn
+
+		\1测试*
+		Nguyễn Minh Tâm
+		Nguyễn Duy Chinh
+		Phan Nguyễn
+
+ 
+		Patrick Hand字体
+		Copyright (c) 2010-2012 Patrick Wagesreiter 
+		(mail@patrickwagesreiter.at)
+		
+		该字体软件经SIL Open Font License授权使用，版本1.1。
+		你可以通过以下链接获取该协议复本以及常见问题解答：
+		http://scripts.sil.org/OFL
+		</about>
+	</language>
+	
+	<!--update 14/11/2017-->
+	
+</loc>
